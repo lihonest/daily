@@ -67,6 +67,14 @@ CCTV奥林匹克频道,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m
 广东影视,http://hongyanqiang.top/chudian.php?id=gdys
 广东国际频道,http://hongyanqiang.top/chudian.php?id=gdgj
 广东少儿频道,http://hongyanqiang.top/chudian.php?id=gdse
+佛山综合,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
+佛山公共,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
+佛山影视,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
+佛山顺德,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
+佛山南海,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
+佛山高明,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
+佛山三水,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
+
 
 香港,#genre#
 翡翠台(地波压缩版),https://cdn.hkyoutv.com/hls/81/index.m3u8
