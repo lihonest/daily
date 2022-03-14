@@ -113,6 +113,7 @@ http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="2666.2KB/s" tvg-rez="720x576" group-title="卫视",西藏卫视
 http://117.169.120.140:8080/live/xizangstv/.m3u8
+
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东",南方卫视
 http://hongyanqiang.top/chudian.php?id=nfws
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-speed="6741.4KB/s" tvg-rez="1920x1080" group-title="广东",广东体育频道
@@ -127,6 +128,21 @@ http://hongyanqiang.top/chudian.php?id=gdys
 http://hongyanqiang.top/chudian.php?id=gdgj
 #EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-speed="1244.8KB/s" tvg-rez="960x540" group-title="广东",广东少儿频道
 http://hongyanqiang.top/chudian.php?id=gdse
+#EXTINF:-1 group-title="广东",佛山综合
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
+#EXTINF:-1 group-title="广东",佛山公共
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163347Hd5U.m3u8
+#EXTINF:-1 group-title="广东",佛山影视
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
+#EXTINF:-1 group-title="广东",佛山顺德
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
+#EXTINF:-1 group-title="广东",佛山南海
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
+#EXTINF:-1 group-title="广东",佛山高明
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
+#EXTINF:-1 group-title="广东",佛山三水
+http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-speed="1451.5KB/s" tvg-rez="1920x1080" group-title="香港",翡翠台(地波压缩版)
 https://cdn.hkyoutv.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港",翡翠台(地波原码版)
