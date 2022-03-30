@@ -94,6 +94,22 @@ http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
 #EXTINF:-1 group-title="佛山",佛山三水
 http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
 
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东",南方卫视
+http://hongyanqiang.top/chudian.php?id=nfws
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-speed="6741.4KB/s" tvg-rez="1920x1080" group-title="广东",广东体育频道
+http://hongyanqiang.top/chudian.php?id=gdty
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" tvg-speed="1325.2KB/s" tvg-rez="1920x1080" group-title="广东",广东公共频道
+http://hongyanqiang.top/chudian.php?id=gdgg
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-speed="1294.2KB/s" tvg-rez="1920x1080" group-title="广东",广东新闻频道
+http://hongyanqiang.top/chudian.php?id=gdxw
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" tvg-rez="1920x1080" group-title="广东",广东影视
+http://hongyanqiang.top/chudian.php?id=gdys
+#EXTINF:-1 tvg-id="6017" tvg-name="广东国际" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" tvg-speed="1260.7KB/s" tvg-rez="720x576" group-title="广东",广东国际频道
+http://hongyanqiang.top/chudian.php?id=gdgj
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-speed="1244.8KB/s" tvg-rez="960x540" group-title="广东",广东少儿频道
+http://hongyanqiang.top/chudian.php?id=gdse
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-speed="15MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-1综合
 http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-speed="10MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-2财经
@@ -210,25 +226,3 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 http://39.135.32.236:6610/PLTV/77777777/224/3221225702/index.m3u8?
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" tvg-speed="5MB/s" tvg-rez="720x576" group-title="卫视",西藏卫视
 http://39.135.32.236:6610/PLTV/77777777/224/3221225800/index.m3u8?
-
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东",南方卫视
-http://hongyanqiang.top/chudian.php?id=nfws
-#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-speed="6741.4KB/s" tvg-rez="1920x1080" group-title="广东",广东体育频道
-http://hongyanqiang.top/chudian.php?id=gdty
-#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" tvg-speed="1325.2KB/s" tvg-rez="1920x1080" group-title="广东",广东公共频道
-http://hongyanqiang.top/chudian.php?id=gdgg
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" tvg-speed="1294.2KB/s" tvg-rez="1920x1080" group-title="广东",广东新闻频道
-http://hongyanqiang.top/chudian.php?id=gdxw
-#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" tvg-rez="1920x1080" group-title="广东",广东影视
-http://hongyanqiang.top/chudian.php?id=gdys
-#EXTINF:-1 tvg-id="6017" tvg-name="广东国际" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" tvg-speed="1260.7KB/s" tvg-rez="720x576" group-title="广东",广东国际频道
-http://hongyanqiang.top/chudian.php?id=gdgj
-#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" tvg-speed="1244.8KB/s" tvg-rez="960x540" group-title="广东",广东少儿频道
-http://hongyanqiang.top/chudian.php?id=gdse
-
-
-
-
-
-
-
