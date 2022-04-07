@@ -1,7 +1,7 @@
 香港,#genre#
 翡翠台(地波压缩版),https://cdn.hkyoutv.com/hls/81/index.m3u8
 翡翠台(地波原码版),https://cdn.hkyoutv.com/raw/81.ts
-翡翠台(小飞侠源),http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(压缩版),http://50.7.161.82:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 無綫新聞台(地波压缩版),https://cdn.hkyoutv.com/hls/83/index.m3u8
 無綫新聞台(地波原码版),https://cdn.hkyoutv.com/raw/83.ts
 无线新闻台(小飞侠源),http://iptv.tvfix.org/hls/inews.m3u8
