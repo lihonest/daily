@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-speed="1451.5KB/s" tvg-rez="1920x1080" group-title="香港",翡翠台(地波压缩版)
-https://cdn.hkyoutv.com/hls/81/index.m3u8
+https://cdn.hklive.tv/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="香港",翡翠台(地波原码版)
 https://cdn.hkyoutv.com/raw/81.ts
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台(小飞侠源) 
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港",無綫新聞台(地波压缩版)
-https://cdn.hkyoutv.com/hls/83/index.m3u8
+https://cdn.hklive.tv/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="香港",無綫新聞台(地波原码版)
 https://cdn.hkyoutv.com/raw/83.ts
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",无线新闻台(小飞侠源)  
 http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港",明珠台(地波压缩版)
-https://cdn.hkyoutv.com/hls/84/index.m3u8
+https://cdn.hklive.tv/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="香港",明珠台（地波原码版）
 https://cdn.hkyoutv.com/raw/84.ts
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-speed="1025.9KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视中文台
@@ -20,13 +20,13 @@ http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="1037.1KB/s" tvg-rez="1920x1080" group-title="香港",凤凰卫视资讯台
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-speed="2256.7KB/s" tvg-rez="1920x1080" group-title="香港",Viu TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+https://cdn.hklive.tv/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="香港",ViuTV(地波原码版)
 https://cdn.hkyoutv.com/raw/99.ts
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-speed="385.5KB/s" tvg-rez="854x480" group-title="香港",香港卫视
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-speed="876.8KB/s" tvg-rez="1920x1080" group-title="香港",J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+https://cdn.hklive.tv/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="香港",美亚电影台(粤语) 
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港",天映经典(粤语) 
@@ -39,16 +39,14 @@ http://iptv.tvfix.org/hls/tvbxh.m3u8
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="香港",国家地理 
 http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港",港台電視31(地波原码版)
-https://cdn.hkyoutv.com/raw/31.ts
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港",港台電視32(地波原码版)
-https://cdn.hkyoutv.com/raw/32.ts
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="香港",港台電視33(地波原码版)
-https://cdn.hkyoutv.com/raw/33.ts
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="香港",香港開電視(地波原码版)
-https://cdn.hkyoutv.com/raw/77.ts
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="香港",香港國際財經台(地波原码版)
-https://cdn.hkyoutv.com/raw/76.ts
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="香港",港台電視31
+https://cdn.hklive.tv/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="香港",港台電視32
+https://cdn.hklive.tv/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="香港",港台電視33
+https://cdn.hklive.tv/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="香港",香港開電視
+https://cdn.hklive.tv/hls/77/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="广东台(广东电信线路)",广东卫视高清
 rtsp://183.59.156.50/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?0&accountinfo=%7E%7EV2.0%7EsFZ46mFNJb4XrlnNoWuN5w%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
