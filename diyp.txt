@@ -5,27 +5,15 @@
 無綫新聞台(地波压缩版),https://cdn.hklive.tv/hls/83/index.m3u8
 無綫新聞台(地波原码版),https://cdn.hkyoutv.com/raw/83.ts
 无线新闻台(卷毛鼠),http://radius.8866.org:880/hls/82/index.m3u8
-无线新闻台(720P),http://ye23.win/iptv/tvb.php?id=1
-http://111.229.84.232/yulin/tvb.php?id=1
-http://ye23.win/iptv/tvb.php?id=4
-http://ye23.win/iptv/tvb.php?id=5
+无线新闻台(720P),http://ye23.win/iptv/tvb.php?id=1#http://111.229.84.232/yulin/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=4#http://ye23.win/iptv/tvb.php?id=5
 Now新闻,http://51.222.193.142:10011/9
 Now直播,http://51.222.193.142:10011/8
 明珠台(地波压缩版),https://cdn.hklive.tv/hls/84/index.m3u8
 明珠台（地波原码版）,https://cdn.hkyoutv.com/raw/84.ts
-凤凰卫视香港台,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8
-http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
-http://120.84.96.29:808/hls/81/index.m3u8
-凤凰卫视中文台,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-http://50.7.218.42:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
-凤凰卫视资讯台,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-Viu TV,https://cdn.hklive.tv/hls/99/index.m3u8
-http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+凤凰卫视香港台,http://59.44.10.116:9901/tsfile/live/1023_1.m3u8#http://59.44.10.113:9901/tsfile/live/1080_1.m3u8#http://120.84.96.29:808/hls/81/index.m3u8
+凤凰卫视中文台,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1#http://59.44.10.116:9901/tsfile/live/1022_1.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#http://50.7.218.42:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+凤凰卫视资讯台,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1#http://59.44.10.116:9901/tsfile/live/1021_1.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8$#http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+Viu TV,https://cdn.hklive.tv/hls/99/index.m3u8#http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 J2,https://cdn.hklive.tv/hls/82/index.m3u8
 天映经典,http://120.84.96.29:808/hls/85/index.m3u8
