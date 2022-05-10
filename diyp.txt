@@ -4,7 +4,7 @@
 翡翠台(卷毛鼠),http://radius.8866.org:880/hls/80/index.m3u8
 無綫新聞台(地波压缩版),https://cdn.hklive.tv/hls/83/index.m3u8
 无线新闻台(卷毛鼠),http://radius.8866.org:880/hls/82/index.m3u8
-无线新闻台(720P),http://ye23.win/iptv/tvb.php?id=1#http://111.229.84.232/yulin/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=4#http://ye23.win/iptv/tvb.php?id=5
+无线新闻台(720P),http://ye23.win/iptv/tvb.php?id=1#http://111.229.84.232/yulin/tvb.php?id=1#http://ye23.win/iptv/tvb.php?id=4#http://ye23.win/iptv/tvb.php?id=5#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 Now新闻,http://51.222.193.142:10011/9
 Now直播,http://51.222.193.142:10011/8
 明珠台(地波压缩版),https://cdn.hklive.tv/hls/84/index.m3u8
@@ -15,7 +15,9 @@ Now直播,http://51.222.193.142:10011/8
 Viu TV,https://cdn.hklive.tv/hls/99/index.m3u8#http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 J2,https://cdn.hklive.tv/hls/82/index.m3u8
+无线J1台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 天映经典,http://120.84.96.29:808/hls/85/index.m3u8
+TVB星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 国家地理,http://50.7.218.42:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
 港台電視31,https://cdn.hklive.tv/hls/31/index.m3u8
 港台電視32,https://cdn.hklive.tv/hls/32/index.m3u8
@@ -24,13 +26,22 @@ J2,https://cdn.hklive.tv/hls/82/index.m3u8
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 
 台湾,#genre#
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#rtmp://59.124.75.150/sat/tv551
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 中视新闻台,http://50.7.218.42:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+中视,rtmp://59.124.75.150/sat/tv091
+华视,rtmp://59.124.75.150/sat/tv111
+台视,rtmp://59.124.75.150/sat/tv071
+民视,rtmp://59.124.75.150/sat/tv051
+三立台湾,http://59.125.101.187:8501/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
 东森电影台,http://120.84.96.29:808/hls/32/index.m3u8
 东森洋片台,http://120.84.96.29:808/hls/33/index.m3u8
 LSTime电影台,http://120.84.96.29:808/hls/35/index.m3u8
+TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
+爱尔达体育一,rtmp://59.124.75.150/sat/md011
+ELEVEN体育二台,rtmp://59.124.75.150/sat/md041
+博斯运动二台,rtmp://59.124.75.150/sat/md051
 
 
 广东台(广东电信线路),#genre#
