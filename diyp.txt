@@ -70,13 +70,11 @@ ELEVEN体育二台,rtmp://59.124.75.150/sat/md041
 佛山三水,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
 
 广东,#genre#
-南方卫视,http://hongyanqiang.top/chudian.php?id=nfws
-广东体育频道,http://hongyanqiang.top/chudian.php?id=gdty
-广东公共频道,http://hongyanqiang.top/chudian.php?id=gdgg
-广东新闻频道,http://hongyanqiang.top/chudian.php?id=gdxw
-广东影视,http://hongyanqiang.top/chudian.php?id=gdys
-广东国际频道,http://hongyanqiang.top/chudian.php?id=gdgj
-广东少儿频道,http://hongyanqiang.top/chudian.php?id=gdse
+广东体育频道,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8#http://www.weetai.cn/cdn/iptv/tyzb38.php?id=gdty
+广东珠江,http://120.84.96.30:808/hls/122/index.m3u8#http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+广东影视,http://www.weetai.cn//cdn/iptv/tyzb38.php?id=gdys
+广东新闻,http://www.weetai.cn//cdn/iptv/tyzb38.php?id=gdxw
+
 
 央视,#genre#
 CCTV-1综合,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
