@@ -1,4 +1,5 @@
 香港,#genre#
+翡翠台,http://113.117.74.6:808/hls/67/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
 无线财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2
@@ -56,7 +57,7 @@ ELEVEN体育二台,rtmp://59.124.75.150/sat/md041
 
 广东,#genre#
 广东体育频道,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8#http://www.weetai.cn/cdn/iptv/tyzb38.php?id=gdty
-广东珠江,http://120.84.96.30:808/hls/122/index.m3u8#http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 广东影视,http://www.weetai.cn//cdn/iptv/tyzb38.php?id=gdys
 广东新闻,http://www.weetai.cn//cdn/iptv/tyzb38.php?id=gdxw
 
@@ -66,6 +67,7 @@ CCTV-1综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
 CCTV-2财经,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 CCTV-3综艺,http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
 CCTV-4中文国际,http://hls.ye23.vip/hls/cctv4hd.m3u8
+CCTV5-体育高清,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV-5体育,http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
 CCTV-5+体育赛事,http://hls.yun.gehua.net.cn:8088/live/CCTV5plusHD_6000.m3u8
 CCTV-6电影,http://hls.ye23.vip/hls/cctv6hd.m3u8
@@ -83,7 +85,9 @@ CGTN,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 CCTV-4欧洲,https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
 CCTV-4美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 CCTV4K,http://live.cooltv.top/tv/cctv4k_backup.php
+CCTV16-4K-SDR源,http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV奥林匹克频道,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
+
 
 
 卫视,#genre#
