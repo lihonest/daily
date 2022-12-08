@@ -4,21 +4,21 @@
 翡翠台,http://113.117.74.6:808/hls/67/index.m3u8
 翡翠台,http://23.237.10.66:16106
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+無綫新聞台,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/782365096?profile=pass
 有线新闻台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-
+ViuTV,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/906230193?profile=pass
 无线财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2
 凤凰卫视中文台,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+港台電視 31,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/199870487?profile=pass
+港台電視 32,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/1865710085?profile=pass
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 天映经典,http://120.84.96.50:808/hls/85/index.m3u8
 星河台,http://113.117.74.11:808/hls/135/index.m3u8
 星河台,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-
 有线财经资讯台,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 
 
