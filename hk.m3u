@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/197" tvg-id="bcffb1b284e4e3433699e6d30a0339c8",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/850526140?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/200" tvg-id="17c8e90b59e3cedd07ebc911934b0197" tvg-chno="31",港台電視 31
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/199870487?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/198" tvg-id="057a346fd21967c1cfe13ac6f0f8c8b2" tvg-chno="32",港台電視 32
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/1865710085?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/157" tvg-id="a9fde8301d0e5cfef47bbfede3486e0d" tvg-chno="33",中央電視台綜合頻道（CCTV-1綜合)
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/820575657?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/159" tvg-id="ba3ea51e3a65a204014016505e7b1e2a" tvg-chno="81",翡翠台
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/514145978?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/199" tvg-id="7b57ba58542456fd045da52d56018dae" tvg-chno="82",J2台
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/1488607099?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/159" tvg-id="a8f1a1ae9f32ad2e355cbc924db3c9f4" tvg-chno="83",無綫新聞台
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/782365096?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/159" tvg-id="00b8787f5b3fc7d1d28f598107ef28b7" tvg-chno="85",無綫財經 體育 資訊台
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/2138617856?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/249" tvg-id="35bcb010bd2c12ac3a04e72bd2586770" tvg-chno="96",ViuTVsix
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/280017973?profile=pass
+#EXTINF:-1 logo="http://2874643631:qq183381@8bb.f3322.net:39993/imagecache/250" tvg-id="b1f903b600d8c92c2098a4f6e107125b" tvg-chno="99",ViuTV
+http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/906230193?profile=pass
