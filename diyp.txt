@@ -1,7 +1,7 @@
 香港,#genre#
-翡翠台（原版）,https://epg.pw/stream/97a3ef93c425fa9bd10b338fd356b62b40e3fc3f26c90c585099ebe1568646c2.m3u8
-翡翠台（原版）,https://epg.pw/stream/262189ae99c1e06cd28c91958a372159ce25150e10daf805237dbcbe72f95e9d.ctv
-翡翠台（原版）,https://epg.pw/stream/0d703d8da7d92dc4f0fc2e4fd3321e11939fcea63e40b1616c81c2a6240c9379.ctv
+翡翠台（原版）,http://r.jdshipin.com/qClQf
+翡翠台（原版）,http://r.jdshipin.com/qrfbg
+翡翠台（原版）,http://r.jdshipin.com/n90gt
 翡翠台（原版）,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 
 翡翠台（广电版）,https://epg.pw/stream/a95c302525614dc7ba0b4932cca6c87b5cf58d22bde1a91c649fc77b204d8061.ctv
@@ -28,7 +28,8 @@ NOW新聞臺,https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977
 
 有线直播新闻台,https://epg.pw/stream/39674ee4749be2427f7ad7dc9e072680768da9a082143436d39b3ecb123abd72.ctv
 
-Viu TV,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+ViuTV,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 
 有線直播新聞,https://epg.pw/stream/b5ee246bf39844fe98ed64c6729c5f8756f88ae00f7aec96ceec8cfa127fccd1.m3u8
 有線直播新聞,https://epg.pw/stream/ecd98c012897d54dc3e4109a859890d300ef21e2fcc05f131caec2bbd087ec15.m3u8
@@ -41,10 +42,8 @@ Viu TV,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D995062979950629
 凤凰卫视资讯台,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
 港台電視 31,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/199870487?profile=pass
-港台電視32,https://epg.pw/stream/f63e8dd1c7ce819ba477cd2d8738b3c592962cbb590ff8270e69499543cc7d1e.m3u8
-港台電視32,https://epg.pw/stream/2949209a6405553d935a2f7f9570163ab15e45044f8e6df5e8ce91caaf1010a1.m3u8
-港台電視32,https://epg.pw/stream/ea0cc3881c7677a281280970c7345abdbdec7b0b9362da469f41aaa90c93c9b4.m3u8
-港台電視32,https://epg.pw/stream/1aeac95c61b1448a7d796cd84464cab853203cc03974537fb2eadb538a6cb447.m3u8
+港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
@@ -68,21 +67,43 @@ tvb星河,https://epg.pw/stream/8b53c169072ab46ef7f87fdb1cd70a3b5a52f955d6b894a8
 
 广东,#genre#
 广东体育,http://113.117.74.45:8081/hls/1/index.m3u8
-广东体育,https://epg.pw/stream/be4a190b21fe227376b11b476fc82ac55f72cca8b8b22b57924693e4668ac399.m3u8
-广东体育,https://epg.pw/stream/5d3bbc378dd4381062c90360e46e75d418abf89d43018b4071449266fa49ad83.m3u8
-广东体育,https://epg.pw/stream/5aae1b1d82ff10b52cacc645a3cfd937015c8326cd2129cd2459270119d96141.ctv
-广东体育,https://epg.pw/stream/812b505468e403042742f189ebae90468e98efbc7c20e4a5f3ca080a54564953.m3u8
-广东珠江,https://epg.pw/stream/50effbb2f1feaefa01c84f6a730100aff29e955b7d56a0c494db9b4e392fc784.m3u8
-广东珠江,https://epg.pw/stream/055c920252f658f08e060c3a9010fb9c41d0d985d9af6140cbb7a32046f25e57.m3u8
-广东珠江,https://epg.pw/stream/0911671610cb18cf708768b77a6597d47e7328b326def86dea72d7a1f135b288.m3u8
-广东影视,https://epg.pw/stream/610af781085da46caa51127ee8de487b90c9641f051d5607fb34ed12b41e9316.m3u8
-广东影视,https://epg.pw/stream/9e5b054d839476db2067685342e4fd4c1cbe9b6a507d3ffa4c5ac797bdf5f2a8.m3u8
-广东影视,https://epg.pw/stream/90d1f0c2e8047b871625b603f11a3b862f8ac8ff577820df2f596cab63414352.ctv
-广东新闻,https://epg.pw/stream/cdf141b30069a33cfe34cde54f4ae71de33f19e154a884974c11faba48771ba1.m3u8
-广东新闻,https://epg.pw/stream/f48f7ae80ec2583bb5280458ae7df9437e08160b0486183d882a61ba6d0b6b3d.m3u8
-广东卫视,https://epg.pw/stream/1eb559cd68b4fa91375cd8b4304e57d2bef6e7ef5102b3735741ae625aaa5b4c.m3u8
-广东卫视,https://epg.pw/stream/9f7ea814ec16e8765c8707ac1f42598013d44460254e4d8632372c69cbaebb57.m3u8
-广东卫视,https://epg.pw/stream/16876b503478df05fbe0e10b0ce732ad4f1571bddfb62cc359675345e65eda21.m3u8
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
+
+广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.114:5146
+广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
+
+广东影视,http://ct.whosayssowhat.top:4022/udp/239.77.0.217:5146
+
+广东新闻,http://ct.whosayssowhat.top:4022/udp/239.77.0.173:5146
+
+广东卫视,http://ct.whosayssowhat.top:4022/udp/239.77.1.19:5146
+广东卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.84:5146
+
+佛山公共,http://ct.whosayssowhat.top:4022/udp/239.253.43.53:5146
+佛山南海,http://ct.whosayssowhat.top:4022/udp/239.253.43.54:5146
+佛山顺德,http://ct.whosayssowhat.top:4022/udp/239.253.43.55:5146
+佛山影视,http://ct.whosayssowhat.top:4022/udp/239.253.43.56:5146
+佛山综合,http://ct.whosayssowhat.top:4022/udp/239.253.43.57:5146
+
+央视（电信源）,#genre#
+CCTV-1,http://ct.whosayssowhat.top:4022/udp/239.77.1.17:5146
+CCTV-2,http://ct.whosayssowhat.top:4022/udp/239.77.0.137:5146
+CCTV-3,http://ct.whosayssowhat.top:4022/udp/239.77.0.169:5146
+CCTV-4,http://ct.whosayssowhat.top:4022/udp/239.77.0.78:5146
+CCTV-5,http://ct.whosayssowhat.top:4022/udp/239.77.0.170:5146
+CCTV-5+,http://ct.whosayssowhat.top:4022/udp/239.77.0.87:5146
+CCTV-6,http://ct.whosayssowhat.top:4022/udp/239.77.0.171:5146
+CCTV-7,http://ct.whosayssowhat.top:4022/udp/239.77.0.138:5146
+CCTV-8,http://ct.whosayssowhat.top:4022/udp/239.77.0.172:5146
+CCTV-9,http://ct.whosayssowhat.top:4022/udp/239.77.0.135:5146
+CCTV-10,http://ct.whosayssowhat.top:4022/udp/239.77.0.134:5146
+CCTV-11,http://ct.whosayssowhat.top:4022/udp/239.77.1.238:5146
+CCTV-12,http://ct.whosayssowhat.top:4022/udp/239.77.0.136:5146
+CCTV-13,http://ct.whosayssowhat.top:4022/udp/239.77.0.188:5146
+CCTV-14,http://ct.whosayssowhat.top:4022/udp/239.77.1.161:5146
+CCTV-15,http://ct.whosayssowhat.top:4022/udp/239.77.1.239:5146
+CCTV-16,http://ct.whosayssowhat.top:4022/udp/239.77.0.165:5146
+CCTV-17,http://ct.whosayssowhat.top:4022/udp/239.77.0.198:5146
 
 
 台湾,#genre#
