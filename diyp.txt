@@ -66,8 +66,8 @@ tvb星河,https://epg.pw/stream/8b53c169072ab46ef7f87fdb1cd70a3b5a52f955d6b894a8
 
 
 广东,#genre#
-广东体育,http://113.117.74.45:8081/hls/1/index.m3u8
 广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
+广东体育,http://113.117.74.45:8081/hls/1/index.m3u8
 
 广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.114:5146
 广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
