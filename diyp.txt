@@ -1,8 +1,7 @@
 香港,#genre#
-翡翠台（原版）,http://r.jdshipin.com/qClQf
-翡翠台（原版）,http://r.jdshipin.com/qrfbg
-翡翠台（原版）,http://r.jdshipin.com/n90gt
-翡翠台（原版）,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+翡翠台（原版）,http://sc2022.stream-link.org/list.php?id=h001
+翡翠台（原版）,http://sc2022.stream-link.org/list.php?id=h002
+
 
 翡翠台（广电版）,https://epg.pw/stream/a95c302525614dc7ba0b4932cca6c87b5cf58d22bde1a91c649fc77b204d8061.ctv
 翡翠台（广电版）,https://epg.pw/stream/55148f6bbc04101a5e1f15a10682660e9ecaef5d1d13320d4f652ebb01ccbf80.ctv
@@ -11,7 +10,7 @@
 無綫新聞台,https://epg.pw/stream/1e195ef09b19accc4e3062ff4e7c46162c069e5736539cacc58884eb86d1b7be.ctv
 無綫新聞台,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
 
-NOW新聞臺,https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.m3u8
+NOW新聞臺,http://sc2022.stream-link.org/list.php?id=c001
 
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
