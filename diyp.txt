@@ -1,14 +1,15 @@
 香港,#genre#
-翡翠台（原版）,http://sc2022.stream-link.org/list.php?id=h001
-翡翠台（原版）,http://sc2022.stream-link.org/list.php?id=h002
+翡翠台（原版）,http://sc2022.stream-link.org/tv2306.php?id=h01
+翡翠台（原版）,http://sc2022.stream-link.org/tv2306.php?id=h02
 
 
 翡翠台（广电版）,https://epg.pw/stream/a95c302525614dc7ba0b4932cca6c87b5cf58d22bde1a91c649fc77b204d8061.ctv
 翡翠台（广电版）,https://epg.pw/stream/55148f6bbc04101a5e1f15a10682660e9ecaef5d1d13320d4f652ebb01ccbf80.ctv
 翡翠台（广电版）,https://epg.pw/stream/f8abbdf5312cd5274ea4bc7602ae3320fb86083f7a07c8c2f08027421f54ad51.m3u8
 
-無綫新聞台,https://epg.pw/stream/1e195ef09b19accc4e3062ff4e7c46162c069e5736539cacc58884eb86d1b7be.ctv
-無綫新聞台,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
+
+無綫新聞台,http://sc2022.stream-link.org/tv2306.php?id=h04
+無綫新聞台,http://sc2022.stream-link.org/tv2306.php?id=h06
 
 NOW新聞臺,http://sc2022.stream-link.org/list.php?id=c001
 
@@ -16,16 +17,6 @@ NOW新聞臺,http://sc2022.stream-link.org/list.php?id=c001
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 
-有线新闻台,https://epg.pw/stream/425153c13f5b6792fdd7a943a84025cb53ef7951060360fe470c1cd2178efd3f.ctv
-有线新闻台,https://epg.pw/stream/f5ce037a8e9402092d082473ad564342743a83b1ca784cff0df90236ee980fa9.m3u8
-有线新闻台,https://epg.pw/stream/cb92c7a443ba356ad4520ac0a855e91c1913d50f5b0843bf3b70682ad1a5c583.m3u8
-有线新闻台,https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8
-有线新闻台,https://epg.pw/stream/b70ab7adf7ca2742bafe6b734a8423d2e1c24656ab084d2097a647693d463f29.ctv
-有线新闻台[geo-blocked],https://epg.pw/stream/f2c33727b297460c5d416f1d7fccd114bf4913f849d67c0899a1be0cb76971d9.ctv
-有线新闻台,https://epg.pw/stream/239d04c2729e4f0669c36fbf1b7518407435278ef3150621b999f14137f0f3f3.m3u8
-有线新闻台,https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
-
-有线直播新闻台,https://epg.pw/stream/39674ee4749be2427f7ad7dc9e072680768da9a082143436d39b3ecb123abd72.ctv
 
 ViuTV,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 ViuTV6,https://live.astradamy.com/viutv/index.m3u8
@@ -40,14 +31,16 @@ ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 凤凰卫视资讯台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰卫视资讯台,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
-港台電視 31,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/199870487?profile=pass
+港台電視31,http://2874643631:qq183381@8bb.f3322.net:39993/stream/channelid/199870487?profile=pass
+港台電視31,http://sc2022.stream-link.org/tv2306.php?id=h08
+
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+港台電視32,http://sc2022.stream-link.org/tv2306.php?id=h09
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-香港开电视,https://epg.pw/stream/56e5db711d4a1b70db201b22bd6585f98e729fd1757d286451139993f56dcb11.m3u8
-香港开电视,https://epg.pw/stream/1bbea9d853900f58873ee97f5be46d4b813a8451cc55d5aa1904f9c1a8ac803d.ctv
+香港开电视,http://sc2022.stream-link.org/tv2306.php?id=h13
 
 
 天映经典,https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.m3u8
