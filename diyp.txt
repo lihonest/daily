@@ -11,7 +11,7 @@
 無綫新聞台,http://sc2022.stream-link.org/tv2306.php?id=h04
 無綫新聞台,http://sc2022.stream-link.org/tv2306.php?id=h06
 
-NOW新聞臺,http://sc2022.stream-link.org/list.php?id=c001
+NOW新聞臺,http://sc2022.stream-link.org/tv2306.php?id=c03
 
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -51,11 +51,8 @@ ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 天映頻道,https://epg.pw/stream/16a85d1d37a531c169623d128ef630954bc8bc3a26dc3be6f63663e585116e30.ctv
 天映頻道,https://epg.pw/stream/2d108e73d7a4ba75209bd90f79fdc3313f6fd5f39ab0de8300590e3381c9c606.ctv
 
-tvb星河,https://epg.pw/stream/93bdf6ab2273f194988b51904529ae553d58eb27b76dfe0c1df605edd279600f.ctv
-tvb星河,https://epg.pw/stream/474f55b9446bb84a404796b908c8df256a27aff1bd9f8f3e67e6288e46fe6f9d.ctv
-tvb星河,https://epg.pw/stream/cb90d820b8388a7ced6fb4191ce914bfa69ac801260f6a3517082539801bf8ef.ctv
-tvb星河,https://epg.pw/stream/f67278a6fd870138b352ef82467462b666eb49be6a58cec1fa3f94d2d86356cf.ctv
-tvb星河,https://epg.pw/stream/8b53c169072ab46ef7f87fdb1cd70a3b5a52f955d6b894a83941bcf25d357510.ctv
+tvb星河,http://sc2022.stream-link.org/tv2306.php?id=c02
+
 
 
 广东,#genre#
