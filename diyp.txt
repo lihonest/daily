@@ -18,6 +18,10 @@ NOW新聞臺,http://sc2022.stream-link.org/tv2306.php?id=c03
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 
+凤凰中文,http://60.208.16.27:1505/gudou.php?id=364&id=fhzw_1500
+星空卫视,http://60.208.16.27:1505/gudou.php?id=364&id=xingkong_1500
+澳亚卫视,http://60.208.16.27:1505/gudou.php?id=364&id=aoya_1500
+
 
 ViuTV,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 ViuTV6,https://live.astradamy.com/viutv/index.m3u8
