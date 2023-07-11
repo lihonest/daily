@@ -29,6 +29,7 @@ ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 有線直播新聞,https://epg.pw/stream/b5ee246bf39844fe98ed64c6729c5f8756f88ae00f7aec96ceec8cfa127fccd1.m3u8
 有線直播新聞,https://epg.pw/stream/ecd98c012897d54dc3e4109a859890d300ef21e2fcc05f131caec2bbd087ec15.m3u8
 
+
 凤凰卫视中文台,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G
 凤凰卫视中文台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰卫视中文台,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
@@ -62,18 +63,30 @@ tvb星河,http://sc2022.stream-link.org/tv2306.php?id=c02
 
 广东,#genre#
 广东体育,http://88888.55555.io:2345/udp/239.77.0.6:5146
+广东体育,http://119.130.207.212:4022/udp/239.77.0.6:5146
+广东体育高清,http://119.130.207.212:4022/udp/239.77.0.112:5146
 广东体育高清,http://88888.55555.io:2345/udp/239.77.0.112:5146
-广东体育HD,http://60.208.16.27:1505/gudou.php?id=364&id=gdsportsHD_7000
-广东体育HD,http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
+广东体育超清,http://119.130.207.212:4022/udp/239.77.0.168:5146
+广东体育（广电）,http://60.208.16.27:1505/gudou.php?id=364&id=gdsportsHD_7000
+广东体育HD（广电）,http://60.208.16.27:1505/gudou.php?id=364&id=1413_4500
 
 广东珠江,http://88888.55555.io:2345/udp/239.77.0.3:5146
 广东珠江,http://88888.55555.io:2345/udp/239.77.1.94:5146
 广东珠江高清,http://88888.55555.io:2345/udp/239.77.0.1:5146
 广东珠江超清,http://88888.55555.io:2345/udp/239.77.0.114:5146
 
+广东珠江,http://119.130.207.212:4022/udp/239.77.0.3:5146
+广东珠江,http://119.130.207.212:4022/udp/239.77.1.94:5146
+广东珠江高清,http://119.130.207.212:4022/udp/239.77.0.1:5146
+广东珠江超清,http://119.130.207.212:4022/udp/239.77.0.114:5146
+
 广东影视,http://88888.55555.io:2345/udp/239.77.0.217:5146
 广东影视,http://88888.55555.io:2345/udp/239.77.0.11:5146
-广东影视,http://60.208.16.27:1505/gudou.php?id=364&id=1458_4500
+
+广东影视,http://119.130.207.212:4022/udp/239.77.0.11:5146
+广东影视,http://119.130.207.212:4022/udp/239.77.0.217:5146
+
+广东影视（广电）,http://60.208.16.27:1505/gudou.php?id=364&id=1458_4500
 
 广东新闻,http://88888.55555.io:2345/udp/239.77.0.4:5146
 广东新闻,http://88888.55555.io:2345/udp/239.77.0.173:5146
@@ -83,6 +96,21 @@ tvb星河,http://sc2022.stream-link.org/tv2306.php?id=c02
 广东卫视高清,http://88888.55555.io:2345/udp/239.77.1.152:5146
 广东卫视高清,http://88888.55555.io:2345/udp/239.77.0.84:5146
 广东卫视超清,http://88888.55555.io:2345/udp/239.77.0.166:5146
+
+广东卫视,http://119.130.207.212:4022/udp/239.77.0.2:5146
+广东卫视,http://119.130.207.212:4022/udp/239.77.1.2:5146
+广东卫视高清,http://119.130.207.212:4022/udp/239.77.1.19:5146
+广东卫视高清,http://119.130.207.212:4022/udp/239.77.1.152:5146
+广东卫视高清,http://119.130.207.212:4022/udp/239.77.0.84:5146
+广东卫视超清,http://119.130.207.212:4022/udp/239.77.0.166:5146
+
+广东综艺 4K50p,http://119.130.207.212:4022/udp/239.77.1.236:5146
+广东综艺 4K,http://119.130.207.212:4022/udp/239.77.1.237:5146
+广东综艺(4k),http://119.130.207.212:4022/udp/239.77.0.244:5146
+广东综艺 宽色域(4k),http://119.130.207.212:4022/udp/239.77.0.246:5146
+广东综艺(4k),http://119.130.207.212:4022/udp/239.77.0.245:5146
+广东综艺 宽色域AVS2(4k) (AVS2),http://119.130.207.212:4022/udp/239.77.0.252:5146
+
 
 佛山综合,http://88888.55555.io:2345/udp/239.253.43.52:5146
 佛山综合高清,http://88888.55555.io:2345/udp/239.253.43.57:5146
@@ -95,90 +123,103 @@ tvb星河,http://sc2022.stream-link.org/tv2306.php?id=c02
 佛山南海,http://88888.55555.io:2345/udp/239.253.43.49:5146
 佛山南海高清,http://88888.55555.io:2345/udp/239.253.43.54:5146
 
+
+佛山公共,http://119.130.207.212:4022/udp/239.253.43.48:5146
+佛山公共高清,http://119.130.207.212:4022/udp/239.253.43.53:5146
+佛山南海,http://119.130.207.212:4022/udp/239.253.43.49:5146
+佛山南海,http://119.130.207.212:4022/udp/239.77.0.236:5146
+佛山南海高清,http://119.130.207.212:4022/udp/239.253.43.54:5146
+佛山顺德,http://119.130.207.212:4022/udp/239.253.43.50:5146
+佛山顺德高清,http://119.130.207.212:4022/udp/239.253.43.55:5146
+佛山影视,http://119.130.207.212:4022/udp/239.253.43.51:5146
+佛山影视高清,http://119.130.207.212:4022/udp/239.253.43.56:5146
+佛山综合,http://119.130.207.212:4022/udp/239.253.43.52:5146
+佛山综合高清,http://119.130.207.212:4022/udp/239.253.43.57:5146
+
 央视（电信源）,#genre#
-CCTV-1综合,http://14.19.128.30:4022/udp/239.77.0.30:5146
-CCTV-1,http://14.19.128.30:4022/udp/239.77.1.20:5146
-CCTV-1高清,http://14.19.128.30:4022/udp/239.77.1.17:5146
-CCTV-1高清,http://14.19.128.30:4022/udp/239.77.1.144:5146
-CCTV-1高清(CCTV -1综合高清),http://14.19.128.30:4022/udp/239.77.0.86:5146
-CCTV-1超清,http://14.19.128.30:4022/udp/239.77.0.129:5146
-CCTV-2财经,http://14.19.128.30:4022/udp/239.77.0.31:5146
-CCTV-2,http://14.19.128.30:4022/udp/239.77.1.28:5146
-CCTV-2高清,http://14.19.128.30:4022/udp/239.77.1.158:5146
-CCTV-2高清 (CAVS),http://14.19.128.30:4022/udp/239.253.43.17:5146
-CCTV-2高清测试(CCTV -2财经高清),http://14.19.128.30:4022/udp/239.77.0.137:5146
-CCTV-3综艺,http://14.19.128.30:4022/udp/239.77.0.32:5146
-CCTV-3高清,http://14.19.128.30:4022/udp/239.77.0.169:5146
-CCTV-3超清 (CAVS),http://14.19.128.30:4022/udp/239.77.0.175:5146
-CCTV-4中文国际,http://14.19.128.30:4022/udp/239.77.0.33:5146
-CCTV-4,http://14.19.128.30:4022/udp/239.77.1.41:5146
-CCTV-4高清,http://14.19.128.30:4022/udp/239.77.1.163:5146
-CCTV-4高清,http://14.19.128.30:4022/udp/239.77.1.166:5146
-CCTV-4高清,http://14.19.128.30:4022/udp/239.77.0.78:5146
-CCTV-5体育,http://14.19.128.30:4022/udp/239.77.0.34:5146
-CCTV-5高清,http://14.19.128.30:4022/udp/239.77.0.170:5146
-CCTV-5超清 (CAVS),http://14.19.128.30:4022/udp/239.77.0.177:5146
-CCTV-5+,http://14.19.128.30:4022/udp/239.77.1.146:5146
-CCTV-5+高清,http://14.19.128.30:4022/udp/239.77.0.87:5146
-CCTV-5+高清,http://14.19.128.30:4022/udp/239.77.1.31:5146
-CCTV-5+高清,http://14.19.128.30:4022/udp/239.77.1.147:5146
-CCTV-6电影,http://14.19.128.30:4022/udp/239.77.0.35:5146
-CCTV-6高清,http://14.19.128.30:4022/udp/239.77.0.171:5146
-CCTV-6超清 (CAVS),http://14.19.128.30:4022/udp/239.77.0.178:5146
-CCTV-7国防军事,http://14.19.128.30:4022/udp/239.77.0.36:5146
-CCTV-7,http://14.19.128.30:4022/udp/239.77.1.24:5146
-CCTV-7高清,http://14.19.128.30:4022/udp/239.77.1.159:5146
-CCTV-7高清 (CAVS),http://14.19.128.30:4022/udp/239.77.1.167:5146
-CCTV-7高清测试(CCTV -7军事农业高清),http://14.19.128.30:4022/udp/239.77.0.138:5146
-CCTV-8电视剧,http://14.19.128.30:4022/udp/239.77.0.37:5146
-CCTV-8高清,http://14.19.128.30:4022/udp/239.77.0.172:5146
-CCTV-8超清 (CAVS),http://14.19.128.30:4022/udp/239.77.0.181:5146
-CCTV-9纪录,http://14.19.128.30:4022/udp/239.77.0.38:5146
-CCTV-9,http://14.19.128.30:4022/udp/239.77.1.65:5146
-CCTV-9高清,http://14.19.128.30:4022/udp/239.77.1.160:5146
-CCTV-9高清 (CAVS),http://14.19.128.30:4022/udp/239.77.1.168:5146
-CCTV-9高清测试,http://14.19.128.30:4022/udp/239.77.0.135:5146
-CCTV-10科教,http://14.19.128.30:4022/udp/239.77.0.39:5146
-CCTV-10,http://14.19.128.30:4022/udp/239.77.1.25:5146
-CCTV-10高清,http://14.19.128.30:4022/udp/239.77.1.113:5146
-CCTV-10高清 (CAVS),http://14.19.128.30:4022/udp/239.77.1.169:5146
-CCTV-10高清测试(CCTV-10科教高清),http://14.19.128.30:4022/udp/239.77.0.134:5146
-CCTV-11戏曲,http://14.19.128.30:4022/udp/239.77.0.40:5146
-CCTV-11,http://14.19.128.30:4022/udp/239.77.1.42:5146
-CCTV-11高清,http://14.19.128.30:4022/udp/239.77.1.238:5146
-CCTV-12社会与法,http://14.19.128.30:4022/udp/239.77.0.41:5146
-CCTV-12,http://14.19.128.30:4022/udp/239.77.1.10:5146
-CCTV-12高清,http://14.19.128.30:4022/udp/239.77.1.109:5146
-CCTV-12高清 (CAVS),http://14.19.128.30:4022/udp/239.77.1.170:5146
-CCTV-12高清测试,http://14.19.128.30:4022/udp/239.77.0.136:5146
-CCTV-13新闻,http://14.19.128.30:4022/udp/239.77.0.42:5146
-CCTV-13,http://14.19.128.30:4022/udp/239.77.1.26:5146
-CCTV-13高清,http://14.19.128.30:4022/udp/239.77.0.188:5146
-CCTV-13高清,http://14.19.128.30:4022/udp/239.253.43.196:5146
-CCTV-14少儿,http://14.19.128.30:4022/udp/239.77.0.43:5146
-CCTV-14,http://14.19.128.30:4022/udp/239.77.1.43:5146
-CCTV-14高清,http://14.19.128.30:4022/udp/239.77.1.161:5146
-CCTV-14高清 (CAVS),http://14.19.128.30:4022/udp/239.77.1.171:5146
-CCTV-14高清测试,http://14.19.128.30:4022/udp/239.77.0.133:5146
-CCTV-15音乐,http://14.19.128.30:4022/udp/239.77.0.44:5146
-CCTV-15,http://14.19.128.30:4022/udp/239.77.1.11:5146
-CCTV-15高清,http://14.19.128.30:4022/udp/239.77.1.239:5146
-CCTV-16高清,http://14.19.128.30:4022/udp/239.77.0.165:5146
-CCTV-16高清,http://14.19.128.30:4022/udp/239.77.1.76:5146
-CCTV-16 4K,http://14.19.128.30:4022/udp/239.77.1.98:5146
-CCTV-17农业,http://14.19.128.30:4022/udp/239.77.0.115:5146
-CCTV-17,http://14.19.128.30:4022/udp/239.77.1.123:5146
-CCTV-17高清,http://14.19.128.30:4022/udp/239.77.1.121:5146
-CCTV-17农业高清,http://14.19.128.30:4022/udp/239.77.0.198:5146
-CCTV-4K 4K,http://14.19.128.30:4022/udp/239.77.0.194:5146
-CCTV-4K 4K50p,http://14.19.128.30:4022/udp/239.77.0.174:5146
-CGTN,http://14.19.128.30:4022/udp/239.77.0.45:5146
-CGTN,http://14.19.128.30:4022/udp/239.77.1.27:5146
-CGTN英语高清,http://14.19.128.30:4022/udp/239.77.0.199:5146
-CGTN西班牙语高清,http://14.19.128.30:4022/udp/239.77.0.221:5146
-CGTN法语高清,http://14.19.128.30:4022/udp/239.77.0.228:5146
-CGTN阿拉伯语高清,http://14.19.128.30:4022/udp/239.253.43.200:5146
-CGTN俄语高清,http://14.19.128.30:4022/udp/239.253.43.201:5146
+CCTV-1综合,http://119.130.207.212:4022/udp/239.77.0.30:5146
+CCTV-1,http://119.130.207.212:4022/udp/239.77.1.20:5146
+CCTV-1高清,http://119.130.207.212:4022/udp/239.77.1.17:5146
+CCTV-1高清,http://119.130.207.212:4022/udp/239.77.1.144:5146
+CCTV-1高清(CCTV -1综合高清),http://119.130.207.212:4022/udp/239.77.0.86:5146
+CCTV-1超清,http://119.130.207.212:4022/udp/239.77.0.129:5146
+CCTV-2财经,http://119.130.207.212:4022/udp/239.77.0.31:5146
+CCTV-2,http://119.130.207.212:4022/udp/239.77.1.28:5146
+CCTV-2高清,http://119.130.207.212:4022/udp/239.77.1.158:5146
+CCTV-2高清 (CAVS),http://119.130.207.212:4022/udp/239.253.43.17:5146
+CCTV-2高清测试(CCTV -2财经高清),http://119.130.207.212:4022/udp/239.77.0.137:5146
+CCTV-3综艺,http://119.130.207.212:4022/udp/239.77.0.32:5146
+CCTV-3高清,http://119.130.207.212:4022/udp/239.77.0.169:5146
+CCTV-3超清 (CAVS),http://119.130.207.212:4022/udp/239.77.0.175:5146
+CCTV-4中文国际,http://119.130.207.212:4022/udp/239.77.0.33:5146
+CCTV-4,http://119.130.207.212:4022/udp/239.77.1.41:5146
+CCTV-4高清,http://119.130.207.212:4022/udp/239.77.1.163:5146
+CCTV-4高清,http://119.130.207.212:4022/udp/239.77.1.166:5146
+CCTV-4高清,http://119.130.207.212:4022/udp/239.77.0.78:5146
+CCTV-5体育,http://119.130.207.212:4022/udp/239.77.0.34:5146
+CCTV-5高清,http://119.130.207.212:4022/udp/239.77.0.170:5146
+CCTV-5超清 (CAVS),http://119.130.207.212:4022/udp/239.77.0.177:5146
+CCTV-5+,http://119.130.207.212:4022/udp/239.77.1.146:5146
+CCTV-5+高清,http://119.130.207.212:4022/udp/239.77.0.87:5146
+CCTV-5+高清,http://119.130.207.212:4022/udp/239.77.1.31:5146
+CCTV-5+高清,http://119.130.207.212:4022/udp/239.77.1.147:5146
+CCTV-6电影,http://119.130.207.212:4022/udp/239.77.0.35:5146
+CCTV-6高清,http://119.130.207.212:4022/udp/239.77.0.171:5146
+CCTV-6超清 (CAVS),http://119.130.207.212:4022/udp/239.77.0.178:5146
+CCTV-7国防军事,http://119.130.207.212:4022/udp/239.77.0.36:5146
+CCTV-7,http://119.130.207.212:4022/udp/239.77.1.24:5146
+CCTV-7高清,http://119.130.207.212:4022/udp/239.77.1.159:5146
+CCTV-7高清 (CAVS),http://119.130.207.212:4022/udp/239.77.1.167:5146
+CCTV-7高清测试(CCTV -7军事农业高清),http://119.130.207.212:4022/udp/239.77.0.138:5146
+CCTV-8电视剧,http://119.130.207.212:4022/udp/239.77.0.37:5146
+CCTV-8高清,http://119.130.207.212:4022/udp/239.77.0.172:5146
+CCTV-8超清 (CAVS),http://119.130.207.212:4022/udp/239.77.0.181:5146
+CCTV-9纪录,http://119.130.207.212:4022/udp/239.77.0.38:5146
+CCTV-9,http://119.130.207.212:4022/udp/239.77.1.65:5146
+CCTV-9高清,http://119.130.207.212:4022/udp/239.77.1.160:5146
+CCTV-9高清 (CAVS),http://119.130.207.212:4022/udp/239.77.1.168:5146
+CCTV-9高清测试,http://119.130.207.212:4022/udp/239.77.0.135:5146
+CCTV-10科教,http://119.130.207.212:4022/udp/239.77.0.39:5146
+CCTV-10,http://119.130.207.212:4022/udp/239.77.1.25:5146
+CCTV-10高清,http://119.130.207.212:4022/udp/239.77.1.113:5146
+CCTV-10高清 (CAVS),http://119.130.207.212:4022/udp/239.77.1.169:5146
+CCTV-10高清测试(CCTV-10科教高清),http://119.130.207.212:4022/udp/239.77.0.134:5146
+CCTV-11戏曲,http://119.130.207.212:4022/udp/239.77.0.40:5146
+CCTV-11,http://119.130.207.212:4022/udp/239.77.1.42:5146
+CCTV-11高清,http://119.130.207.212:4022/udp/239.77.1.238:5146
+CCTV-12社会与法,http://119.130.207.212:4022/udp/239.77.0.41:5146
+CCTV-12,http://119.130.207.212:4022/udp/239.77.1.10:5146
+CCTV-12高清,http://119.130.207.212:4022/udp/239.77.1.109:5146
+CCTV-12高清 (CAVS),http://119.130.207.212:4022/udp/239.77.1.170:5146
+CCTV-12高清测试,http://119.130.207.212:4022/udp/239.77.0.136:5146
+CCTV-13新闻,http://119.130.207.212:4022/udp/239.77.0.42:5146
+CCTV-13,http://119.130.207.212:4022/udp/239.77.1.26:5146
+CCTV-13高清,http://119.130.207.212:4022/udp/239.77.0.188:5146
+CCTV-13高清,http://119.130.207.212:4022/udp/239.253.43.196:5146
+CCTV-14少儿,http://119.130.207.212:4022/udp/239.77.0.43:5146
+CCTV-14,http://119.130.207.212:4022/udp/239.77.1.43:5146
+CCTV-14高清,http://119.130.207.212:4022/udp/239.77.1.161:5146
+CCTV-14高清 (CAVS),http://119.130.207.212:4022/udp/239.77.1.171:5146
+CCTV-14高清测试,http://119.130.207.212:4022/udp/239.77.0.133:5146
+CCTV-15音乐,http://119.130.207.212:4022/udp/239.77.0.44:5146
+CCTV-15,http://119.130.207.212:4022/udp/239.77.1.11:5146
+CCTV-15高清,http://119.130.207.212:4022/udp/239.77.1.239:5146
+CCTV-16高清,http://119.130.207.212:4022/udp/239.77.0.165:5146
+CCTV-16高清,http://119.130.207.212:4022/udp/239.77.1.76:5146
+CCTV-16 4K,http://119.130.207.212:4022/udp/239.77.1.98:5146
+CCTV-17农业,http://119.130.207.212:4022/udp/239.77.0.115:5146
+CCTV-17,http://119.130.207.212:4022/udp/239.77.1.123:5146
+CCTV-17高清,http://119.130.207.212:4022/udp/239.77.1.121:5146
+CCTV-17农业高清,http://119.130.207.212:4022/udp/239.77.0.198:5146
+CCTV-4K 4K,http://119.130.207.212:4022/udp/239.77.0.194:5146
+CCTV-4K 4K50p,http://119.130.207.212:4022/udp/239.77.0.174:5146
+CGTN,http://119.130.207.212:4022/udp/239.77.0.45:5146
+CGTN,http://119.130.207.212:4022/udp/239.77.1.27:5146
+CGTN英语高清,http://119.130.207.212:4022/udp/239.77.0.199:5146
+CGTN西班牙语高清,http://119.130.207.212:4022/udp/239.77.0.221:5146
+CGTN法语高清,http://119.130.207.212:4022/udp/239.77.0.228:5146
+CGTN阿拉伯语高清,http://119.130.207.212:4022/udp/239.253.43.200:5146
+CGTN俄语高清,http://119.130.207.212:4022/udp/239.253.43.201:5146
 
 
 台湾,#genre#
@@ -203,97 +244,72 @@ ELEVEN体育二台,rtmp://59.124.75.150/sat/md041
 
 
 央视,#genre#
-CCTV-1综合,http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
+CCTV-1综合,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
 CCTV-1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV-1综合,https://cntv.sbs/live?auth=230612&id=cctv1
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
-CCTV-1综合,http://39.134.61.218/PLTV/88888888/224/3221226896/index.m3u8
-CCTV-2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+CCTV-1综合,https://cntv.sbs/live?auth=2307100804&id=cctv1
+CCTV-1综合,http://lzoq.hk3c.ml/daili/?id=cctv1hd8m/8000000
+CCTV-2财经,http://lzoq.hk3c.ml/daili/?id=cctv2hd8m/8000000
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-CCTV-2财经,https://cntv.sbs/live?auth=230612&id=cctv2
-CCTV-2财经,http://39.134.61.218/PLTV/88888888/224/3221226929/index.m3u8
-CCTV-2财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
+CCTV-2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-3综艺,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV-3综艺,http://lzoq.hk3c.ml/daili/?id=cctv38m/8000000
-CCTV-3综艺,http://39.134.61.218/PLTV/88888888/224/3221226889/index.m3u8
-CCTV-3综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
+CCTV-3综艺,https://cntv.sbs/live?auth=2307100804&id=cctv3
 CCTV-4中文国际,http://lzoq.hk3c.ml/daili/?id=cctv4hd8m/8000000
 CCTV-4中文国际,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-CCTV-4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV-4中文国际,https://cntv.sbs/live?auth=2307100804&id=cctv4
 CCTV-4中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV-4中文国际,http://39.134.61.218/PLTV/88888888/224/3221226845/index.m3u8
+CCTV-4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5体育,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV-5体育,http://39.134.61.218/PLTV/88888888/224/3221226944/index.m3u8
-CCTV-5体育,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
-CCTV-5+体育赛事,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+CCTV-5体育,http://lzoq.hk3c.ml/daili/?id=cctv58m/8000000
 CCTV-5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CCTV-5+体育赛事,http://39.134.61.218/PLTV/88888888/224/3221227092/index.m3u8
+CCTV-5+体育赛事,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
 CCTV-5+体育赛事,http://lzoq.hk3c.ml/daili/?id=cctv5phd8m/8000000
-CCTV-6电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV-6电影,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV-6电影,http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8
-CCTV-6电影,http://lzoq.hk3c.ml/daili/?id=cctv6hd8m/8000000
-CCTV-7国防军事,http://lzoq.hk3c.ml/daili/?id=cctv7hd8m/8000000
 CCTV-7国防军事,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-CCTV-7国防军事,http://39.134.61.218/PLTV/88888888/224/3221226925/index.m3u8
-CCTV-7国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
-CCTV-8电视剧,http://lzoq.hk3c.ml/daili/?id=cctv8hd8m/8000000
-CCTV-8电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+CCTV-7国防军事,https://cntv.sbs/live?auth=2307100804&id=cctv7
+CCTV-7国防军事,http://lzoq.hk3c.ml/daili/?id=cctv7hd8m/8000000
 CCTV-8电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV-8电视剧,http://39.134.61.218/PLTV/88888888/224/3221226946/index.m3u8
-CCTV-8电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-CCTV-9纪录,http://lzoq.hk3c.ml/daili/?id=cctv9hd8m/8000000
+CCTV-8电视剧,https://cntv.sbs/live?auth=2307100804&id=cctv8
+CCTV-8电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+CCTV-8电视剧,http://lzoq.hk3c.ml/daili/?id=cctv8hd8m/8000000
 CCTV-9纪录,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+CCTV-9纪录,https://cntv.sbs/live?auth=2307100804&id=cctv9
 CCTV-9纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV-9纪录,http://39.134.61.218/PLTV/88888888/224/3221226849/index.m3u8
-CCTV-9纪录,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
+CCTV-9纪录,http://lzoq.hk3c.ml/daili/?id=cctv9hd8m/8000000
 CCTV-10科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV-10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV-10科教,http://39.134.61.218/PLTV/88888888/224/3221226966/index.m3u8
-CCTV-10科教,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
 CCTV-11戏曲,http://lzoq.hk3c.ml/daili/?id=cctv11hd8m/8000000
-CCTV-11戏曲,https://cntv.sbs/live?auth=230612&id=cctv11
 CCTV-11戏曲,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV-11戏曲,http://39.134.61.218/PLTV/88888888/224/3221226558/index.m3u8
-CCTV-11戏曲,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
 CCTV-12社会与法,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV-12社会与法,https://cntv.sbs/live?auth=230612&id=cctv12
-CCTV-12社会与法,http://39.134.61.218/PLTV/88888888/224/3221226906/index.m3u8
-CCTV-12社会与法,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
-CCTV-12社会与法,http://lzoq.hk3c.ml/daili/?id=cctv12hd8m/8000000
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13新闻,http://lzoq.hk3c.ml/daili/?id=cctv13xwhd8m/8000000
+CCTV-13新闻,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
 CCTV-13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV-13新闻,http://39.134.61.218/PLTV/88888888/224/3221226481/index.m3u8
-CCTV-14少儿,http://39.134.61.218/PLTV/88888888/224/3221226974/index.m3u8
 CCTV-14少儿,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV-14少儿,https://cntv.sbs/live?auth=230612&id=cctv14
 CCTV-14少儿,http://lzoq.hk3c.ml/daili/?id=cctvsehd8m/8000000
-CCTV-14少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
-CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+CCTV-14少儿,https://cntv.sbs/live?auth=2307100804&id=cctv14
 CCTV-15音乐,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-CCTV-15音乐,https://cntv.sbs/live?auth=230612&id=cctv15
-CCTV-15音乐,http://39.134.61.218/PLTV/88888888/224/3221226855/index.m3u8
-CCTV-15音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV-17农村农业,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-CCTV-17农村农业,http://39.134.61.218/PLTV/88888888/224/3221226857/index.m3u8
+CCTV-15音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+CCTV-15音乐,http://lzoq.hk3c.ml/daili/?id=cctv15hd8m/8000000
 CCTV-17农村农业,http://lzoq.hk3c.ml/daili/?id=cctv17hd8m/8000000
+CCTV-17农村农业,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CGTN,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240366_1/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV奥林匹克频道,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV奥林匹克频道,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV奥林匹克频道,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV奥林匹克频道,http://39.134.61.218/PLTV/88888888/224/3221226910/index.m3u8
-CCTV奥林匹克频道,https://cntv.sbs/live?auth=230612&id=cctv16
+CCTV奥林匹克频道,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV奥林匹克频道,https://cntv.sbs/live?auth=2307100804&id=cctv16
+CCTV奥林匹克频道,http://lzoq.hk3c.ml/daili/?id=cctv16hd8m/8000000
 
 
 卫视,#genre#
