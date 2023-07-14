@@ -14,6 +14,8 @@
 
 NOW新聞臺,http://sc2022.stream-link.org/tv2306.php?id=c03
 
+爆谷台,https://sc2022.stream-link.org/tv2306.php?id=c04
+
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -23,8 +25,8 @@ NOW新聞臺,http://sc2022.stream-link.org/tv2306.php?id=c03
 澳亚卫视,http://60.208.16.27:1505/gudou.php?id=364&id=aoya_1500
 
 
-ViuTV,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
-ViuTV6,https://live.astradamy.com/viutv/index.m3u8
+ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=HMAJM5_GqMQ_QOPH3lsaOQ&expires=1689368788
+ViuTV6,http://hkdtmb.com/dtmb/96/index.m3u8?token=v7UUuQ9u_knBeTZgkDWX3g&expires=1689368788
 
 有線直播新聞,https://epg.pw/stream/b5ee246bf39844fe98ed64c6729c5f8756f88ae00f7aec96ceec8cfa127fccd1.m3u8
 有線直播新聞,https://epg.pw/stream/ecd98c012897d54dc3e4109a859890d300ef21e2fcc05f131caec2bbd087ec15.m3u8
@@ -48,7 +50,7 @@ ViuTV6,https://live.astradamy.com/viutv/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 香港开电视,http://sc2022.stream-link.org/tv2306.php?id=h13
-
+香港開電視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h14
 
 天映经典,https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.m3u8
 
