@@ -12,18 +12,13 @@
 無綫新聞台,http://sc2022.stream-link.org/tv2306.php?id=h04
 無綫新聞台,http://sc2022.stream-link.org/tv2306.php?id=h06
 
-NOW新聞臺,http://sc2022.stream-link.org/tv2306.php?id=c03
+NOW新聞臺,https://sc2022.stream-link.org/tv2306.php?id=h08
 
 爆谷台,https://sc2022.stream-link.org/tv2306.php?id=c04
 
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-
-凤凰中文,http://60.208.16.27:1505/gudou.php?id=364&id=fhzw_1500
-星空卫视,http://60.208.16.27:1505/gudou.php?id=364&id=xingkong_1500
-澳亚卫视,http://60.208.16.27:1505/gudou.php?id=364&id=aoya_1500
-
 
 ViuTV,http://hkdtmb.com/dtmb/99/index.m3u8?token=HMAJM5_GqMQ_QOPH3lsaOQ&expires=1689368788
 ViuTV6,http://hkdtmb.com/dtmb/96/index.m3u8?token=v7UUuQ9u_knBeTZgkDWX3g&expires=1689368788
@@ -39,18 +34,19 @@ ViuTV6,http://hkdtmb.com/dtmb/96/index.m3u8?token=v7UUuQ9u_knBeTZgkDWX3g&expires
 凤凰卫视资讯台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 凤凰卫视资讯台,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
-
+港台電視31,https://sc2022.stream-link.org/tv2306.php?id=h09
 港台電視31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 港台電視31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 
+港台電視32,https://sc2022.stream-link.org/tv2306.php?id=h10
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 港台電視32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-香港开电视,http://sc2022.stream-link.org/tv2306.php?id=h13
-香港開電視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h14
+香港开电视,https://sc2022.stream-link.org/tv2306.php?id=h15
+香港開電視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h17
 
 天映经典,https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.m3u8
 
@@ -59,8 +55,10 @@ ViuTV6,http://hkdtmb.com/dtmb/96/index.m3u8?token=v7UUuQ9u_knBeTZgkDWX3g&expires
 天映頻道,https://epg.pw/stream/16a85d1d37a531c169623d128ef630954bc8bc3a26dc3be6f63663e585116e30.ctv
 天映頻道,https://epg.pw/stream/2d108e73d7a4ba75209bd90f79fdc3313f6fd5f39ab0de8300590e3381c9c606.ctv
 
-tvb星河,http://sc2022.stream-link.org/tv2306.php?id=c02
+tvb星河,https://sc2022.stream-link.org/tv2306.php?id=h23
 tvb星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
+
+TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
 
 广东（内网rtp）,#genre#
 广东体育高清,rtp://239.77.0.112:5146
@@ -131,7 +129,7 @@ tvb星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATz
 佛山影视高清,http://192.168.11.1:4000/udp/239.253.43.56:5146
 佛山综合高清,http://192.168.11.1:4000/udp/239.253.43.57:5146
 
-广东,#genre#
+广东（外网）,#genre#
 广东体育,http://88888.55555.io:2345/udp/239.77.0.6:5146
 广东体育高清,http://88888.55555.io:2345/udp/239.77.0.112:5146
 广东体育超清,http://88888.55555.io:2345/udp/239.77.0.168:5146
