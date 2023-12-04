@@ -1,20 +1,14 @@
 香港,#genre#
-翡翠台（原版）,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台（原版）,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台（原版）,http://107.167.12.58:27347/livehttpplay?channel_id=20124
-翡翠台（原版）,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
-翡翠台（原版）,https://sc2022.stream-link.org/tv2306.php?id=h01
-翡翠台（原版）,https://sc2022.stream-link.org/tv2306.php?id=h02
 翡翠台（原版）,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 
 
-翡翠台（广电版）,http://r.jdshipin.com/n90gt
+翡翠台（广电版）,http://r.jdshipin.com/qrfbg
 
-无线新闻台,http://107.167.12.58:27347/livehttpplay?channel_id=30024
-无线新闻台,http://107.167.12.58:27347/livehttpplay?channel_id=20123
+
+无线新闻台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+无线新闻台,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
 无线新闻台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
-无线新闻台,https://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻台,https://sc2022.stream-link.org/tv2306.php?id=h06
+
 
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
@@ -72,7 +66,7 @@ ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 天映頻道,https://epg.pw/stream/16a85d1d37a531c169623d128ef630954bc8bc3a26dc3be6f63663e585116e30.ctv
 天映頻道,https://epg.pw/stream/2d108e73d7a4ba75209bd90f79fdc3313f6fd5f39ab0de8300590e3381c9c606.ctv
 
-tvb星河,https://sc2022.stream-link.org/tv2306.php?id=h23
+tvb星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
 tvb星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 
 TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
