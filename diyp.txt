@@ -1,4 +1,5 @@
 香港,#genre#
+翡翠台（原版）,https://fake-stream.livednow.com/hkdvb/81?token=c06df4f1f83fefa26eac8052a6a99d60&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
 翡翠台（原版）,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 
 
@@ -14,7 +15,7 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 J2,https://sc2022.stream-link.org/tv2306.php?id=h03
 
-NOW新聞臺,https://sc2022.stream-link.org/tv2306.php?id=h08
+NOW新聞臺,https://fake-stream.livednow.com/hkdvb/332?token=e1efe528ebf1470b2fa643e4a6661fd8&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
 
 爆谷台,https://sc2022.stream-link.org/tv2306.php?id=c04
 
@@ -23,9 +24,8 @@ NOW新聞臺,https://sc2022.stream-link.org/tv2306.php?id=h08
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 
 ViuTV,https://sc2022.stream-link.org/tv2306.php?id=h09
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=20131
-ViuTV,http://107.167.12.58:27347/livehttpplay?channel_id=30032
+ViuTV,token=4f9da9e646f208b31487b63dd61944b2&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
+
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 
