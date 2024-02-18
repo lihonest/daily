@@ -1,21 +1,26 @@
 香港,#genre#
-翡翠台（原版）,https://fake-stream.livednow.com/hkdvb/81?token=c06df4f1f83fefa26eac8052a6a99d60&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
+翡翠台（原版）,https://cdn.hkdtmb.com/hls/live/83.m3u8?token=386914947637896
+翡翠台（原版）,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台（原版）,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 翡翠台（原版）,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 
 
 翡翠台（广电版）,http://r.jdshipin.com/qrfbg
 
-
+无线新闻台,https://cdn.hkdtmb.com/hls/live/83.m3u8?token=386914947637896
 无线新闻台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
-无线新闻台,https://epg.pw/stream/d07688640684498fb773e7cd13b2f90abcd1cdc4683c44533cef67dac722c2fc.m3u8
-无线新闻台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 
 
+娱乐新闻台，https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+
+J2,https://cdn.hkdtmb.com/hls/live/77.m3u8?token=386914947637896
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
-J2,https://sc2022.stream-link.org/tv2306.php?id=h03
+
 
 NOW新聞臺,https://fake-stream.livednow.com/hkdvb/332?token=e1efe528ebf1470b2fa643e4a6661fd8&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
+
+武侠小说台，https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 
 爆谷台,https://sc2022.stream-link.org/tv2306.php?id=c04
 
@@ -23,7 +28,7 @@ NOW新聞臺,https://fake-stream.livednow.com/hkdvb/332?token=e1efe528ebf1470b2f
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 
-ViuTV,https://sc2022.stream-link.org/tv2306.php?id=h09
+ViuTV,https://cdn.hkdtmb.com/hls/live/99.m3u8?token=386914947637896
 ViuTV,token=4f9da9e646f208b31487b63dd61944b2&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
 
 ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
@@ -37,26 +42,25 @@ ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 凤凰卫视中文台,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G
 凤凰卫视中文台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 凤凰卫视中文台,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-凤凰卫视资讯台,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4
-凤凰卫视资讯台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
-凤凰卫视资讯台,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 
-港台電視31,http://107.167.12.58:27347/livehttpplay?channel_id=30066
-港台電視31,http://107.167.12.58:27347/livehttpplay?channel_id=20203
-港台電視31,https://sc2022.stream-link.org/tv2306.php?id=h09
+凤凰卫视资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
+
+
+港台電視31,https://cdn.hkdtmb.com/hls/live/99.m3u8?token=386914947637896
 港台電視31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
 港台電視31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
 
+港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+港台電視32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 港台電視32,http://107.167.12.58:27347/livehttpplay?channel_id=30028
 港台電視32,http://107.167.12.58:27347/livehttpplay?channel_id=30067
 港台電視32,https://sc2022.stream-link.org/tv2306.php?id=h10
-港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-港台電視32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
 
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-香港开电视,https://sc2022.stream-link.org/tv2306.php?id=h15
+香港开电视,https://cdn.hkdtmb.com/hls/live/99.m3u8?token=386914947637896
 香港開電視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h17
 
 天映经典,https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.m3u8
@@ -67,6 +71,7 @@ ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
 天映頻道,https://epg.pw/stream/2d108e73d7a4ba75209bd90f79fdc3313f6fd5f39ab0de8300590e3381c9c606.ctv
 
 tvb星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
+tvb星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 tvb星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 
 TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
