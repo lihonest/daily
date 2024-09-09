@@ -1,78 +1,34 @@
 香港,#genre#
-翡翠台（原版）,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台（原版）,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台（原版）,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-
-翡翠台（广电版）,http://r.jdshipin.com/qrfbg
-
-无线新闻台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+翡翠台（原版）,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 
 
-娱乐新闻台，https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 
-J2,https://cdn.hkdtmb.com/hls/live/77.m3u8?token=386914947637896
-J2,http://r.jdshipin.com/Nr5jq
-J2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 
+ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 
-NOW新聞臺,https://fake-stream.livednow.com/hkdvb/332?token=e1efe528ebf1470b2fa643e4a6661fd8&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
+TVB明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
 
-武侠小说台，https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 
-爆谷台,https://sc2022.stream-link.org/tv2306.php?id=c04
+凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
 
-有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
-ViuTV,https://cdn.hkdtmb.com/hls/live/99.m3u8?token=386914947637896
-ViuTV,token=4f9da9e646f208b31487b63dd61944b2&user_id=942880715&user_token=4fc5557ef83ef5b68e2f6da416cc2638
-
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=20132
-ViuTV6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
-
-
-有線直播新聞,https://epg.pw/stream/b5ee246bf39844fe98ed64c6729c5f8756f88ae00f7aec96ceec8cfa127fccd1.m3u8
-有線直播新聞,https://epg.pw/stream/ecd98c012897d54dc3e4109a859890d300ef21e2fcc05f131caec2bbd087ec15.m3u8
-
-
-凤凰卫视中文台,rtmp://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G
-凤凰卫视中文台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
-凤凰卫视中文台,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-
-凤凰卫视资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-
-
-港台電視31,https://cdn.hkdtmb.com/hls/live/99.m3u8?token=386914947637896
-港台電視31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-港台電視31,http://50.7.238.114:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
-
-港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-港台電視32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-港台電視32,http://107.167.12.58:27347/livehttpplay?channel_id=30028
-港台電視32,http://107.167.12.58:27347/livehttpplay?channel_id=30067
-港台電視32,https://sc2022.stream-link.org/tv2306.php?id=h10
-
-
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
-香港开电视,https://cdn.hkdtmb.com/hls/live/99.m3u8?token=386914947637896
-香港開電視資訊台,https://sc2022.stream-link.org/tv2306.php?id=h17
-
-天映经典,https://epg.pw/stream/422582174274119854d334101293100e2ff48093996cbbbcdef0077a3b8bf667.m3u8
-
-天映頻道,https://epg.pw/stream/e05d91fd96d6feee433914246b5938ff0f34a945da11e5412db686f3b7bdc031.ctv
-天映頻道,https://epg.pw/stream/4e6624c30eb0236861398d4e97873c0294f1ed1246315d17f95356bdc9684e67.ctv
-天映頻道,https://epg.pw/stream/16a85d1d37a531c169623d128ef630954bc8bc3a26dc3be6f63663e585116e30.ctv
-天映頻道,https://epg.pw/stream/2d108e73d7a4ba75209bd90f79fdc3313f6fd5f39ab0de8300590e3381c9c606.ctv
-
-tvb星河,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
-tvb星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-tvb星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
-
-TVB經典劇台,https://sc2022.stream-link.org/tv2306.php?id=h24
-
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
 广东(内网),#genre#
 广东体育高清,http://192.168.1.1:4000/udp/239.77.0.112:5146
