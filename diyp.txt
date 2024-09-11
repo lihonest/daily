@@ -3,6 +3,9 @@
 翡翠台（原版）,http://124.244.149.194:65530/bysid/1.m3u8
 翡翠台（原版）,http://119.129.173.161:8081/hls/20/index.m3u8
 翡翠台（原版）,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+翡翠台（原版）https://stream1.freetv.fun/fei-cui-6.ctv
+翡翠台（原版）https://stream1.freetv.fun/tvb-fei-cui-1.ctv
+翡翠台（原版）https://stream1.freetv.fun/fei-cui-8.ctv
 
 无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
 
