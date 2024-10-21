@@ -1,30 +1,30 @@
 香港(地波信号),#genre#
-翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=386914947685704
-翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=386914947685704
-无线新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=386914947685704
-TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=386914947685704
-明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=386914947685704
-鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=386914947685704
-Popc,https://live.hkdvb.com/hls/live/801.m3u8?token=386914947685704
-美亞,https://live.hkdvb.com/hls/live/802.m3u8?token=386914947685704
-華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=386914947685704
-粵語片台,https://live.hkdvb.com/hls/live/804.m3u8?token=386914947685704
-HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=386914947685704
-HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=386914947685704
-HOY 國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=386914947685704
-ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=386914947685704
-ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=386914947685704
-Now Superstars 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=386914947685704
-Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=386914947685704
-Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=386914947685704
-Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=386914947685704
-Now Sports 632,https://live.hkdvb.com/hls/live/632.m3u8?token=386914947685704
-港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=386914947685704
-港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=386914947685704
-CCTV-1  港澳版,https://live.hkdvb.com/hls/live/33.m3u8?token=386914947685704
-CGTN Documentary,https://live.hkdvb.com/hls/live/34.m3u8?token=386914947685704
-CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=386914947685704
-RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=386914947685704
+翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=386914947646205
+翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=386914947646205
+无线新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=386914947646205
+TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=386914947646205
+明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=386914947646205
+鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=386914947646205
+Popc,https://live.hkdvb.com/hls/live/801.m3u8?token=386914947646205
+美亞,https://live.hkdvb.com/hls/live/802.m3u8?token=386914947646205
+華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=386914947646205
+粵語片台,https://live.hkdvb.com/hls/live/804.m3u8?token=386914947646205
+HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=386914947646205
+HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=386914947646205
+HOY 國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=386914947646205
+ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=386914947646205
+ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=386914947646205
+Now Superstars 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=386914947646205
+Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=386914947646205
+Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=386914947646205
+Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=386914947646205
+Now Sports 632,https://live.hkdvb.com/hls/live/632.m3u8?token=386914947646205
+港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=386914947646205
+港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=386914947646205
+CCTV-1  港澳版,https://live.hkdvb.com/hls/live/33.m3u8?token=386914947646205
+CGTN Documentary,https://live.hkdvb.com/hls/live/34.m3u8?token=386914947646205
+CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=386914947646205
+RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=386914947646205
 
 
 香港,#genre#
