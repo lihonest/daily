@@ -29,14 +29,11 @@ RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=386914947646205
 
 
 香港,#genre#
-翡翠台（原版）,https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-翡翠台（原版）,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+翡翠台,http://156.238.251.33:5500/stream/tvb/null-1/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
 
+无线新闻台,http://156.238.251.33:5500/stream/tvb/null-2/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
 
-无线新闻台,https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
-无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-
-美亚电影台https://test.ttvb.eu.org/stream/tvb/null-2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+美亚电影台,https://test.ttvb.eu.org/stream/tvb/null-2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
 
 ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
