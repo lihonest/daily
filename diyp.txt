@@ -1,97 +1,11 @@
 香港(AKTV),#genre#
-翡翠台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台4K,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/4k/AKTV.m3u8
-無線新聞台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-1/AKTV.m3u8
-无线新闻台(北美),http://tv.lihonest.xyz:3000/AKTV/live/aktv2/null-1/AKTV.m3u8
-美亞電影台(HK),http://tv.lihonest.xyz:3000/AKTV/live/aktv/hk-1/AKTV.m3u8
-明珠台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-2/AKTV.m3u8
-翡翠剧集台(北美),http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠综合台(北美),http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-17/AKTV.m3u8
-明珠剧集台(北美),http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-19/AKTV.m3u8
-Now星影台,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/now-1/AKTV.m3u8
-PopC,http://tv.lihonest.xyz:3000/AKTV/live/aktv/popc/AKTV.m3u8
-鳳凰中文,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-21/AKTV.m3u8
-千禧經典台(HK),http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://tv.lihonest.xyz:3000/AKTV/live/aktv/hk/AKTV.m3u8
-TVB Plus,http://tv.lihonest.xyz:3000/AKTV/live/aktv/tvbplus/AKTV.m3u8
-viutv 99,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/viutv696/AKTV.m3u8
-Animax(HK),http://tv.lihonest.xyz:3000/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Astro AEC,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/astroaec/AKTV.m3u8
-Astro AOD,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/astroaod/AKTV.m3u8
-Astro iQIYI,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro QJ,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/astroqj/AKTV.m3u8
-Astro Xing He,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-Channel 5 HD,http://tv.lihonest.xyz:3000/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://tv.lihonest.xyz:3000/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://tv.lihonest.xyz:3000/AKTV/live/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-ROCK Action,http://tv.lihonest.xyz:3000/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVBS,http://tv.lihonest.xyz:3000/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS-新聞台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvN,http://tv.lihonest.xyz:3000/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-12/AKTV.m3u8
-中天新聞台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-8/AKTV.m3u8
-中視,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-10/AKTV.m3u8
-寰宇新聞台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-13/AKTV.m3u8
-華視,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-11/AKTV.m3u8
-靖天電影台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-6/AKTV.m3u8
-龍華日韓台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://tv.lihonest.xyz:3000/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/axn/AKTV.m3u8
-i-Fun 動漫台,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/ifun/AKTV.m3u8
-Love Nature HD,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-東森新聞,http://tv.lihonest.xyz:3000/AKTV/live/aktv2/null/AKTV.m3u8
-DW,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-NHK東京総合,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/nhk/AKTV.m3u8
-Nick Jr,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://tv.lihonest.xyz:3000/AKTV/live/aktv3/null-2/AKTV.m3u8
-
-
-香港(地波信号),#genre#
-翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=386914947646205
-翡翠4K,https://live.hkdvb.com/hls/live/800.m3u8?token=386914947646205
-无线新聞台,https://live.hkdvb.com/hls/live/83.m3u8?token=386914947646205
-TVB PLUS,https://live.hkdvb.com/hls/live/82.m3u8?token=386914947646205
-明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=386914947646205
-鳳凰香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=386914947646205
-Popc,https://live.hkdvb.com/hls/live/801.m3u8?token=386914947646205
-美亞,https://live.hkdvb.com/hls/live/802.m3u8?token=386914947646205
-華語劇台,https://live.hkdvb.com/hls/live/803.m3u8?token=386914947646205
-粵語片台,https://live.hkdvb.com/hls/live/804.m3u8?token=386914947646205
-HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=386914947646205
-HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=386914947646205
-HOY 國際財經台,https://live.hkdvb.com/hls/live/76.m3u8?token=386914947646205
-ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=386914947646205
-ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=386914947646205
-Now Popcorn 爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=386914947646205
-Now Superstars 星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=386914947646205
-Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=386914947646205
-Now Sports 英超1台,https://live.hkdvb.com/hls/live/621.m3u8?token=386914947646205
-Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=386914947646205
-Now Sports 632,https://live.hkdvb.com/hls/live/632.m3u8?token=386914947646205
-港台電視 31,https://live.hkdvb.com/hls/live/31.m3u8?token=386914947646205
-港台電視 32,https://live.hkdvb.com/hls/live/32.m3u8?token=386914947646205
-CCTV-1  港澳版,https://live.hkdvb.com/hls/live/33.m3u8?token=386914947646205
-CGTN Documentary,https://live.hkdvb.com/hls/live/34.m3u8?token=386914947646205
-CGTN English,https://live.hkdvb.com/hls/live/35.m3u8?token=386914947646205
-RTHK36,https://live.hkdvb.com/hls/live/36.m3u8?token=386914947646205
-
+翡翠台,http://156.238.251.33:5500/stream/tvb/ak/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
+无线新闻台,http://156.238.251.33:5500/stream/tvb/ak-1/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
+美亞電影台(HK),http://156.238.251.33:5500/stream/tvb/null/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
+明珠台,http://156.238.251.33:5500/stream/tvb/feicui/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
+鳳凰中文,http://156.238.251.33:5500/stream/tvb/ak-3/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
+鳳凰資訊,http://156.238.251.33:5500/stream/tvb/ak-2/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
+鳳凰香港,http://156.238.251.33:5500/stream/tvb/null-1/master.m3u8?u=admin&p=e6443ab89e91951dd54370c8303a9592d029c83a73240d413f2417d2e24cbe23
 
 
 
