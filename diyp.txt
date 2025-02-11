@@ -16,7 +16,7 @@
 
 娱乐新闻台,https://video.mytvsuper.xyz/live/1975d65cc7f9b5643843994c0027dfee2ba4a43dd65fc33fd6682aa1043eea74.m3u8?token=386914947736047
 
-千禧经典台，https://video.mytvsuper.xyz/live/ac1601dcd9c17dab910fefff37eea194935a88fb60335042b53b96330dfd1986.m3u8?token=386914947736047
+千禧经典台,https://video.mytvsuper.xyz/live/ac1601dcd9c17dab910fefff37eea194935a88fb60335042b53b96330dfd1986.m3u8?token=386914947736047
 
 
 
