@@ -24,6 +24,9 @@
 黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 明珠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
 明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 viuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 TVB Jade,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
 TVB Xing He,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
@@ -36,7 +39,6 @@ Channel U HD,http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
 myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
 中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
