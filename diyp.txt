@@ -105,7 +105,27 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
-
+香港(冰茶),#genre#
+翡翠台,https://hk.188766.xyz/?migutoken=63fe11de59028a5d53e9a3700f1662b0&amp;id=hk_fct&amp;type=dy
+翡翠台4K,https://hk.188766.xyz/?migutoken=64b8afda956baf8363c27834ad2f66be&amp;id=hk_fct4k&amp;type=dy
+无线新闻,https://hk.188766.xyz/?migutoken=b2888d53ca6d888d4be27a099579be2a&amp;id=hk_wxxw&amp;type=dy
+Now新闻台,https://hk.188766.xyz/?migutoken=0fa44b7f31e29babc19db2ff8dddd30e&amp;id=hk_now&amp;type=dy
+TVB Plus,https://hk.188766.xyz/?migutoken=9a5016b573ef31a37a48855c71eca0aa&amp;id=hk_tvbp&amp;type=dy
+明珠台,https://hk.188766.xyz/?migutoken=73a1fb5733176fbc5c6d105cc3dbadf6&amp;id=hk_mzt&amp;type=dy
+TVB星河,https://hk.188766.xyz/?migutoken=66374a14985aadd90c11fc764eef0825&amp;id=hk_tvbxh&amp;type=dy
+TVB功夫,https://hk.188766.xyz/?migutoken=90bbdd3a3a9663366f22d0ffd4c46cc4&amp;id=hk_yzwx&amp;type=dy
+凤凰中文,https://hk.188766.xyz/?migutoken=0de0af713e1a9ced74298f2d1d71eab0&amp;id=fhzw&amp;pp=1
+凤凰中文,https://hk.188766.xyz/?migutoken=92b224cfaf3a4819d80b554388951e6a&amp;id=hk_fhzw&amp;type=dy
+凤凰资讯,https://hk.188766.xyz/?migutoken=7b9ff53ca12abbb51b8b9e13363128c0&amp;id=fhzx&amp;pp=1
+凤凰资讯,https://hk.188766.xyz/?migutoken=b96bc0599975ed0082f10ad045ae4845&amp;id=hk_fhzx&amp;type=dy
+凤凰香港,https://hk.188766.xyz/?migutoken=00dd2a5544951d2325cdd7b50e2af143&amp;id=fhhk&amp;pp=1
+凤凰香港,https://hk.188766.xyz/?migutoken=fe1fb97c8f6dd90df29cf35fec777c3f&amp;id=hk_fhhk&amp;type=dy
+八度空间,https://hk.188766.xyz/?migutoken=d7f9b15bc6b0f4de58303899e3735903&amp;id=hk_8tv&amp;type=dy
+CHU,https://hk.188766.xyz/?migutoken=2538d5757b2aeac7c7269b840880229a&amp;id=hk_chu&amp;type=dy
+CH5,https://hk.188766.xyz/?migutoken=bba451eafb139a1083c0066aa197d01a&amp;id=hk_ch5&amp;type=dy
+CH8,https://hk.188766.xyz/?migutoken=541dcce712c337ed87a40dd70bb0464e&amp;id=hk_ch8&amp;type=dy
+澳视澳门,https://hk.188766.xyz/?migutoken=5c292a9b99cb725a9c5fb3ca6ac4a6e3&amp;id=hk_asam&amp;type=dy
+HOY77,https://hk.188766.xyz/?migutoken=2cfc8701f2832c9530db0da7935f2378&amp;id=hk_hoy&amp;type=dy
 
 
 
