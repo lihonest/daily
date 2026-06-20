@@ -1,39 +1,42 @@
 香港(judy),#genre#
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=fct
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://cdn6.163189.xyz/163189/fct
+翡翠台(字幕),https://o11.163189.xyz/stream/tvb/fct/
+无线新闻,https://cdn6.163189.xyz/163189/wxxw
 NOW新闻台,https://cdn.163189.xyz/163189/now
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
+天映频道,https://o11.163189.xyz/stream/live/typd/
+天映经典,https://o11.163189.xyz/stream/live/ccm/2
+亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+TVB1,https://cdn6.163189.xyz/163189/tvb1
+TVBJ1,https://cdn6.163189.xyz/163189/j1
+翡翠剧集台,https://cdn6.163189.xyz/163189/tvbd
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+ViuTV,https://cdn10.163189.xyz/163189/viu/
+ViuTVsix,https://cdn10.163189.xyz/163189/viu6/
+RTHK31,https://cdn.163189.xyz/163189/rthk31
+RTHK32,https://cdn.163189.xyz/163189/rthk32
+HOY TV,https://cdn6.163189.xyz/163189/hoy
+HOY TV,https://cdn.163189.xyz/163189/hoy
+HOY资讯台,https://cdn.163189.xyz/163189/hoy78
+HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(硬字幕),https://cdn6.163189.xyz/163189/jade
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+广东珠江,https://cdn2.163189.xyz/163189/gdzj
+广东体育,https://cdn2.163189.xyz/163189/gdty
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
 澳门莲花,http://cdn6.163189.xyz/163189/amlh
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
@@ -87,23 +90,7 @@ BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 澳视体育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 澳视综艺,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 
-香港(bxtv),#genre#
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-PopC,http://bxtv.3a.ink/api.php?id=popc
-NOW新闻,http://bxtv.3a.ink/api.php?id=now
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+
 
 
 
@@ -354,6 +341,30 @@ CETV-4高清,http://192.168.1.1:4000/udp/239.253.43.114:5146
 百事通高清,http://192.168.1.1:4000/udp/239.253.43.117:5146
 百事通高清,http://192.168.1.1:4000/udp/239.253.43.116:5146
 百事通高清,http://192.168.1.1:4000/udp/239.253.43.115:5146
+
+央视(外网),#genre#
+CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+CCTV4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
+CCTV5,https://cdn16.163189.xyz/163189/cctv5-2
+CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+CCTV5+,https://cdn16.163189.xyz/163189/cctv5p-2
+CCTV6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+CCTV7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+CCTV9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+CCTV10,https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+CCTV11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+CCTV12,https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV14,https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+CCTV15,https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+CCTV16,https://cdn16.163189.xyz/163189/cctv16-2
+CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+
 
 台湾,#genre#
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8#rtmp://59.124.75.150/sat/tv551
