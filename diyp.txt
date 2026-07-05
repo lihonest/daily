@@ -1,100 +1,122 @@
-香港(judy),#genre#
-翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-翡翠台(字幕),http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台（广电）,https://cdn6.163189.xyz/163189/fct
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
-NOW新闻台,https://cdn.163189.xyz/163189/now
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-TVB娱乐新闻台,https://cdn6.163189.xyz/163189/ylxw
-天映频道,https://o11.163189.xyz/stream/live/typd/
-天映经典,https://o11.163189.xyz/stream/live/ccm/2
-亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-TVB1,https://cdn6.163189.xyz/163189/tvb1
-TVBJ1,https://cdn6.163189.xyz/163189/j1
-翡翠剧集台,https://cdn6.163189.xyz/163189/tvbd
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
-ViuTV,https://cdn10.163189.xyz/163189/viu/
-ViuTVsix,https://cdn10.163189.xyz/163189/viu6/
-RTHK31,https://cdn.163189.xyz/163189/rthk31
-RTHK32,https://cdn.163189.xyz/163189/rthk32
-HOY TV,https://cdn6.163189.xyz/163189/hoy
-HOY TV,https://cdn.163189.xyz/163189/hoy
-HOY资讯台,https://cdn.163189.xyz/163189/hoy78
-HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(硬字幕),https://cdn6.163189.xyz/163189/jade
-华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
-广东珠江,https://cdn2.163189.xyz/163189/gdzj
-广东体育,https://cdn2.163189.xyz/163189/gdty
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳门体育,http://cdn6.163189.xyz/163189/amty
-澳门综艺,http://cdn6.163189.xyz/163189/amzy
-澳门莲花,http://cdn6.163189.xyz/163189/amlh
-八度空间,http://cdn6.163189.xyz/163189/8tv
-CH5,http://cdn6.163189.xyz/163189/ch5
-CH8,http://cdn6.163189.xyz/163189/ch8
-CHU,http://cdn6.163189.xyz/163189/chu
-龙华电影,http://cdn8.163189.xyz/163189/lhdy
-龙华经典,http://cdn8.163189.xyz/163189/lhjd
-龙华卡通,http://cdn8.163189.xyz/163189/lhkt
-龙华偶像,http://cdn8.163189.xyz/163189/lhox
-龙华日韩,http://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
-龙华洋片,http://cdn8.163189.xyz/163189/lhyp
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-CCTV13,https://cdn3.163189.xyz/163189/cctv13
-深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
-深圳财经生活,https://cdn3.163189.xyz/163189/szcjsh
-第一财经,https://cdn3.163189.xyz/163189/dycj
-五星体育,https://cdn3.163189.xyz/163189/wxty
+香港(测试),#genre#
+翡翠台,http://c.123.rr.kg/163189/fct
+华丽翡翠台(硬字幕),http://c.123.rr.kg/163189/jade
+无线新闻台,http://c.123.rr.kg/163189/wxxw
+HOY TV,http://c.123.rr.kg/163189/hoy
+凤凰中文,http://c.123.rr.kg/163189/fhzw
+凤凰资讯,http://c.123.rr.kg/163189/fhzx
+凤凰香港,http://c.123.rr.kg/163189/fhhk
+CCTV1港澳版,http://c.123.rr.kg/163189/cctv1
+澳视澳门,http://c.123.rr.kg/163189/asam
+澳视卫星,http://c.123.rr.kg/163189/as
+澳门体育,http://c.123.rr.kg/163189/amty
+澳门综艺,http://c.123.rr.kg/163189/amzy
+澳门莲花,http://c.123.rr.kg/163189/amlh
+重温经典,http://c.123.rr.kg/163189/cwjd
+TVB1,http://c.123.rr.kg/163189/tvb1
+TVBJ1,http://c.123.rr.kg/163189/j1
+翡翠剧集台,http://c.123.rr.kg/163189/tvbd
+八度空间,http://c.123.rr.kg/163189/8tv
+CH5,http://c.123.rr.kg/163189/ch5
+CH8,http://c.123.rr.kg/163189/ch8
+CHU,http://c.123.rr.kg/163189/chu
+华丽翡翠台,http://c.123.rr.kg/163189/hlfct
+TVB亚洲武侠,http://c.123.rr.kg/163189/yzwx
+TVB娱乐新闻台,http://c.123.rr.kg/163189/ylxw
+无线新闻台,http://c.123.rr.kg/163189/wxxwt
+TVB星河,http://c.123.rr.kg/163189/tvbxh
 
+香港(mytv),#genre#
+翡翠台,http://38.76.210.165:20003/163189/fct?163189&token=nishisb
+翡翠台(字幕),http://38.76.210.165:20001/stream/tvb/fct/?163189&token=nishisb
+明珠台(字幕),http://38.76.210.165:20001/stream/tvb/mzt/?163189&token=nishisb
+无线新闻台,http://38.76.210.165:20003/163189/wxxw?163189&token=nishisb
+NOW新闻台,http://38.76.210.165:20000/163189/now?163189&token=nishisb
+翡翠台4K(字幕),http://38.76.210.165:20006/stream/tvb/fct4k/?163189&token=nishisb
+凤凰中文,http://38.76.210.165:20003/163189/fhzw?163189&token=nishisb
+TVB Plus(字幕),http://38.76.210.165:20001/stream/tvb/tvbp/?163189&token=nishisb
+HOY TV,http://38.76.210.165:20003/163189/hoy?163189&token=nishisb
+HOY TV,http://38.76.210.165:20000/163189/hoy?163189&token=nishisb
+HOY资讯台,http://38.76.210.165:20000/163189/hoy78?163189&token=nishisb
+HOY国际财经台,http://38.76.210.165:20010/163189/hoy76?163189&token=nishisb
+TVB亚洲武侠,http://38.76.210.165:20003/163189/yzwx?163189&token=nishisb
+TVB娱乐新闻台,http://38.76.210.165:20003/163189/ylxw?163189&token=nishisb
+无线新闻台,http://38.76.210.165:20003/163189/wxxwt?163189&token=nishisb
+TVB星河1,http://38.76.210.165:20003/163189/tvbxh?163189&token=nishisb
+TVB星河2,http://38.76.210.165:20009/163189/xinghe/?163189&token=nishisb
+天映新加坡,http://38.76.210.165:20009/163189/typd/?163189&token=nishisb
+天映经典,http://38.76.210.165:20009/163189/ccm/?163189&token=nishisb
+华丽翡翠台,http://38.76.210.165:20001/stream/live/hlt/?163189&token=nishisb
+华丽翡翠台(硬字幕),http://38.76.210.165:20003/163189/jade?163189&token=nishisb
+华丽翡翠台(新加坡),http://38.76.210.165:20001/stream/live/jade/?163189&token=nishisb
+ViuTV,http://38.76.210.165:20009/163189/viu/?163189&token=nishisb
+ViuTVsix,http://38.76.210.165:20009/163189/viu6/?163189&token=nishisb
+RTHK31,http://38.76.210.165:20000/163189/rthk31?163189&token=nishisb
+RTHK32,http://38.76.210.165:20000/163189/rthk32?163189&token=nishisb
+澳视澳门,http://38.76.210.165:20003/163189/asam?163189&token=nishisb
+澳视卫星,http://38.76.210.165:20003/163189/as?163189&token=nishisb
+澳门体育,http://38.76.210.165:20003/163189/amty?163189&token=nishisb
+澳门综艺,http://38.76.210.165:20003/163189/amzy?163189&token=nishisb
+澳门莲花,http://38.76.210.165:20003/163189/amlh?163189&token=nishisb
+重温经典,http://38.76.210.165:20003/163189/cwjd?163189&token=nishisb
+凤凰资讯,http://38.76.210.165:20003/163189/fhzx?163189&token=nishisb
+凤凰香港,http://38.76.210.165:20003/163189/fhhk?163189&token=nishisb
+TVB1,http://38.76.210.165:20003/163189/tvb1?163189&token=nishisb
+TVBJ1,http://38.76.210.165:20003/163189/j1?163189&token=nishisb
+翡翠剧集台,http://38.76.210.165:20003/163189/tvbd?163189&token=nishisb
+八度空间,http://38.76.210.165:20003/163189/8tv?163189&token=nishisb
+CH5,http://38.76.210.165:20003/163189/ch5?163189&token=nishisb
+CH8,http://38.76.210.165:20003/163189/ch8?163189&token=nishisb
+CHU,http://38.76.210.165:20003/163189/chu?163189&token=nishisb
+龙华电影,http://38.76.210.165:20008/163189/lhdy?163189&token=nishisb
+龙华经典,http://38.76.210.165:20008/163189/lhjd?163189&token=nishisb
+龙华偶像,http://38.76.210.165:20008/163189/lhox?163189&token=nishisb
+龙华日韩,http://38.76.210.165:20008/163189/lhrh?163189&token=nishisb
+龙华戏剧,http://38.76.210.165:20008/163189/lhxj?163189&token=nishisb
+龙华洋片,http://38.76.210.165:20008/163189/lhyp?163189&token=nishisb
+龙华卡通,http://38.76.210.165:20008/163189/lhkt?163189&token=nishisb
+金光布袋戏,http://38.76.210.165:20001/stream/live/jgbdx/?163189&token=nishisb
+华丽翡翠台,http://38.76.210.165:20003/163189/hlfct?163189&token=nishisb
 
-香港(yang),#genre#
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB Plus,http://r.jdshipin.com/ndGgS
-无线新闻,http://r.jdshipin.com/CkuBd
-Now新聞台,https://cdn.163189.xyz/163189/now
-鳳凰衛視中文台,http://r.jdshipin.com/cCCzW
-鳳凰衛視資訊台,http://r.jdshipin.com/0Rp07
-鳳凰衛視香港台,http://r.jdshipin.com/yDoTN
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-tvN,https://hls.iill.top/api/tvN/playlist.m3u8
-BBC Earth,https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-澳视卫星,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-澳视葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-澳视澳门,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-澳视资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-澳视体育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-澳视综艺,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-
-
-
-
-
+Astro AOD,http://38.76.210.165:20001/stream/live/aod/?163189&token=nishisb
+Astro AEC,http://38.76.210.165:20001/stream/live/aec/?163189&token=nishisb
+Astro QJ,http://38.76.210.165:20001/stream/live/qj/?163189&token=nishisb
+Astro欢喜台,http://38.76.210.165:20001/stream/live/hxt/?163189&token=nishisb
+爱奇艺,http://38.76.210.165:20001/stream/live/iqiyi/?163189&token=nishisb
+天映频道,http://38.76.210.165:20001/stream/live/typd/?163189&token=nishisb
+天映经典,http://38.76.210.165:20001/stream/live/ccm/?163189&token=nishisb
+TVB星河,http://38.76.210.165:20001/stream/live/tvbxh/?163189&token=nishisb
+千禧经典台,http://38.76.210.165:20001/stream/live/tvbc/?163189&token=nishisb
+翡翠台(WebVTT字幕),http://38.76.210.165:20009/163189/fct/?163189&token=nishisb
+明珠台(WebVTT字幕),http://38.76.210.165:20009/163189/mzt/?163189&token=nishisb
+TVB Plus(WebVTT字幕),http://38.76.210.165:20009/163189/tvbp/?163189&token=nishisb
+黄金华剧台(WebVTT字幕),http://38.76.210.165:20009/163189/hjhjt/?163189&token=nishisb
+重温经典,http://38.76.210.165:20002/163189/cwjd?163189&token=nishisb
+五星体育,http://38.76.210.165:20005/163189/wxty?163189&token=nishisb
+民视影剧台,http://38.76.210.165:20004/163189/msyj?163189&token=nishisb
+公视戏剧,http://38.76.210.165:20004/163189/gsxj?163189&token=nishisb
+采昌影剧台,http://38.76.210.165:20004/163189/ccyj?163189&token=nishisb
+靖天映画,http://38.76.210.165:20004/163189/jtyh?163189&token=nishisb
+靖天戏剧台,http://38.76.210.165:20004/163189/jtxj?163189&token=nishisb
+靖天电影台,http://38.76.210.165:20004/163189/jtdy?163189&token=nishisb
+靖洋戏剧台,http://38.76.210.165:20004/163189/jyxj?163189&token=nishisb
+影迷数位电影台,http://38.76.210.165:20004/163189/ymswdyt?163189&token=nishisb
+amc电影台,http://38.76.210.165:20004/163189/amc?163189&token=nishisb
+CinemaWorld,http://38.76.210.165:20004/163189/cinemaworld?163189&token=nishisb
+My Cinema Europe,http://38.76.210.165:20004/163189/mce?163189&token=nishisb
+经典电影台,http://38.76.210.165:20004/163189/jddyt?163189&token=nishisb
+CMusic,http://38.76.210.165:20004/163189/cmusic?163189&token=nishisb
+DreamWorks梦工厂动画,http://38.76.210.165:20004/163189/dreamworks?163189&token=nishisb
+精选动漫台,http://38.76.210.165:20004/163189/jxdmt?163189&token=nishisb
+金光布袋戏,http://38.76.210.165:20004/163189/jgbdx?163189&token=nishisb
+TVB Plus,http://38.76.210.165:200010/smt/163189/tvbp?163189&token=nishisb
+纬来电影台,http://38.76.210.165:200010/smt/163189/wldy?163189&token=nishisb
+纬来戏剧台,http://38.76.210.165:200010/smt/163189/wlxj?163189&token=nishisb
+纬来体育台,http://38.76.210.165:200010/smt/163189/wlty?163189&token=nishisb
+龙祥时代,http://38.76.210.165:200010/smt/163189/lxsd?163189&token=nishisb
+东森电影,http://38.76.210.165:200010/smt/163189/dsdy?163189&token=nishisb
+东森戏剧,http://38.76.210.165:200010/smt/163189/dsxj?163189&token=nishisb
+东森洋片,http://38.76.210.165:200010/smt/163189/dsyp?163189&token=nishisb
 
 
 
